@@ -3,7 +3,7 @@
 List of books that I have read and highly recommend to other people.
 
 ##QA 
-* Agile Testing (Lisa Crispin & J Gregory)
+* [Agile Testing] (https://www.amazon.co.uk/Agile-Testing-Practical-Addison-Wesley-Signature/dp/0321534468/ref=sr_1_1?ie=UTF8&qid=1485771895&sr=8-1&keywords=agile+testing) - Lisa Crispin & J Gregory
 * More Agile Testing (Lisa Crispin & J Gregory)
 * Explore It: Exploratory testing (Elizabeth Hendrickson)
 * How Google Tests Software (James A Whittaker)
