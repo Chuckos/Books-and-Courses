@@ -20,7 +20,7 @@ List of books that I have read and highly recommend to other people.  The books 
 * [Who Says Elephants Can't Dance?: How I Turned Around IBM](https://www.amazon.co.uk/d/Books/Who-Says-Elephants-Cant-Dance-Turned-Around/0007170874/ref=sr_1_1?s=books&ie=UTF8&qid=1485777369&sr=1-1&keywords=who+says+elephants+can%27t+dance) - Louis V. Gerstner Jr
 * [Drive](https://www.amazon.co.uk/Drive-Daniel-H-Pink/dp/184767769X/ref=sr_1_1?s=books&ie=UTF8&qid=1485777433&sr=1-1&keywords=drive) - Daniel H. Pink
 
-## Internet of Things
+## Internet of Things & Web of Things
 * Building the Web of Thngs: Dominique D. Guinard
 
 ## Miscellaneous
