@@ -8,7 +8,7 @@ List of books that I have read and highly recommend to other people.  The books 
 * [Explore It: Exploratory testing](https://www.amazon.co.uk/Explore-Increase-Confidence-Exploratory-Testing/dp/1937785025/ref=sr_1_1?s=books&ie=UTF8&qid=1485772670&sr=1-1&keywords=explore+it) - Elizabeth Hendrickson
 * [How Google Tests Software](https://www.amazon.co.uk/Google-Tests-Software-James-Whittaker/dp/0321803027/ref=sr_1_1?s=books&ie=UTF8&qid=1485772737&sr=1-1&keywords=how+google+test+software) - James A Whittaker
 * [How to Reduce the Cost of Software Testing](https://www.amazon.co.uk/How-Reduce-Cost-Software-Testing/dp/1439861552/ref=sr_1_1?s=books&ie=UTF8&qid=1485772786&sr=1-1&keywords=how+to+reduce+the+cost+of+software+testing) - Matthew Heusser & Govind Kulkarni
-* The Little Black Book on Test Design.
+* [The Little Black Book on Test Design](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) - Rikard Edgren 
 
 
 ## Personal Development
