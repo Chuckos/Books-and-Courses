@@ -3,16 +3,16 @@
 List of books that I have read and highly recommend to other people.  The books I have listed have been very influential on my career and has helped me become a better tester, manager and leader.
 
 ## QA 
-* [Agile Testing](https://www.amazon.co.uk/Agile-Testing-Practical-Addison-Wesley-Signature/dp/0321534468/ref=sr_1_1?ie=UTF8&qid=1485771895&sr=8-1&keywords=agile+testing) - Lisa Crispin & J Gregory
-* [More Agile Testing](https://www.amazon.co.uk/More-Agile-Testing-Addison-Wesley-Signature/dp/0321967054/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=CS6RSWJ2F7QC6EZFKGMC) - Lisa Crispin & J Gregory
-* [Explore It: Exploratory testing](https://www.amazon.co.uk/Explore-Increase-Confidence-Exploratory-Testing/dp/1937785025/ref=sr_1_1?s=books&ie=UTF8&qid=1485772670&sr=1-1&keywords=explore+it) - Elizabeth Hendrickson
-* [How Google Tests Software](https://www.amazon.co.uk/Google-Tests-Software-James-Whittaker/dp/0321803027/ref=sr_1_1?s=books&ie=UTF8&qid=1485772737&sr=1-1&keywords=how+google+test+software) - James A Whittaker
-* [How to Reduce the Cost of Software Testing](https://www.amazon.co.uk/How-Reduce-Cost-Software-Testing/dp/1439861552/ref=sr_1_1?s=books&ie=UTF8&qid=1485772786&sr=1-1&keywords=how+to+reduce+the+cost+of+software+testing) - Matthew Heusser & Govind Kulkarni
-* [The Little Black Book on Test Design](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) - Rikard Edgren 
+* [Agile Testing (Lisa Crispin & J Gregory)](https://www.amazon.co.uk/Agile-Testing-Practical-Addison-Wesley-Signature/dp/0321534468/ref=sr_1_1?ie=UTF8&qid=1485771895&sr=8-1&keywords=agile+testing)
+* [More Agile Testing (Lisa Crispin & J Gregory)](https://www.amazon.co.uk/More-Agile-Testing-Addison-Wesley-Signature/dp/0321967054/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=CS6RSWJ2F7QC6EZFKGMC)
+* [Explore It: Exploratory testing (Elizabeth Hendrickson)](https://www.amazon.co.uk/Explore-Increase-Confidence-Exploratory-Testing/dp/1937785025/ref=sr_1_1?s=books&ie=UTF8&qid=1485772670&sr=1-1&keywords=explore+it)
+* [How Google Tests Software (James A Whittaker)](https://www.amazon.co.uk/Google-Tests-Software-James-Whittaker/dp/0321803027/ref=sr_1_1?s=books&ie=UTF8&qid=1485772737&sr=1-1&keywords=how+google+test+software)
+* [How to Reduce the Cost of Software Testing (Matthew Heusser & Govind Kulkarni)](https://www.amazon.co.uk/How-Reduce-Cost-Software-Testing/dp/1439861552/ref=sr_1_1?s=books&ie=UTF8&qid=1485772786&sr=1-1&keywords=how+to+reduce+the+cost+of+software+testing)
+* [The Little Black Book on Test Design (Rikard Edgren)](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) 
 
 
 ## Personal Development
-* [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=sr_1_1?s=books&ie=UTF8&qid=1485777161&sr=1-1&keywords=the+clean+coder) - Robert C. Martin
+* [The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin)](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=sr_1_1?s=books&ie=UTF8&qid=1485777161&sr=1-1&keywords=the+clean+coder)
 
 
 ## Leadership & Management.
