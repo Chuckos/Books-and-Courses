@@ -21,10 +21,10 @@ List of books that I have read and highly recommend to other people.  The books 
 * [Drive](https://www.amazon.co.uk/Drive-Daniel-H-Pink/dp/184767769X/ref=sr_1_1?s=books&ie=UTF8&qid=1485777433&sr=1-1&keywords=drive) - Daniel H. Pink
 
 ## Internet of Things & Web of Things
-* Building the Web of Thngs: Dominique D. Guinard
+* [Building the Web of Thngs: Dominique D. Guinard](https://www.manning.com/books/building-the-web-of-things)
 
 ## Miscellaneous
-* Thinking slow and fast: (Daniel Khaneman)
-* The secrets of consulting: (Gerald Weinberg)
-* The Art of Application Performance Testing - Ian Molyneaux
+* [Thinking slow and fast: (Daniel Khaneman)](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576)
+* [The secrets of consulting: (Gerald Weinberg)](https://www.amazon.co.uk/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
+* [The Art of Application Performance Testing - Ian Molyneaux](https://www.amazon.co.uk/Art-Application-Performance-Testing-Programmers/dp/0596520662)
 
