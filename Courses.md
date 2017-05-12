@@ -3,7 +3,7 @@ List of courses, achievemnts, training, conference that I have taken during my w
 
 ## 2016
 ### January
-* [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+* [Learn the Command Line (Codecademy.com)](https://www.codecademy.com/learn/learn-the-command-line)
 
 ## 2015
 ### December
