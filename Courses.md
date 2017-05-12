@@ -1,2 +1,2 @@
-## Courses
-List of courses that I have taken during my working career
+# Courses
+List of courses, achievemnts, training, conference that I have taken during my working career
