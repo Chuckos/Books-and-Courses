@@ -1,5 +1,5 @@
 # Training, Courses, Achievements & Conferences
-List of courses, achievemnts, training, conference that I have taken during my working career
+List of courses, achievemnts, training, conference that I have taken during my working career.
 
 ## 2017
 ### March
@@ -25,3 +25,27 @@ List of courses, achievemnts, training, conference that I have taken during my w
 ## 2012
 ### June
 * [Learn JavaScript (Codecademy.com)](https://www.codecademy.com/learn/javascript)
+
+## 2009
+### April
+* [ISTQB Foundation Certificate in Software Testing](http://www.istqb.org/certification-path-root/foundation-level/foundation-level-content.html)
+
+##2008
+* Agile methodology training.
+* Leading Everyday: Discovering the Possibilities (Leadership Training).
+* Driving Accountability: Through Crucial Confrontations (Leadership Training).
+* Leading Virtually: Managing Complexity across the Globe (Leadership Training).
+
+
+
+##2007
+* Introduction & Intermediate level to using Quick Test Professional (Automation Training).
+* Managing Performance (Management Training).
+* General HR Policies and Procedures (Management Training).
+* Company and Career Development (Management Training).
+* Global Data Protection and Privacy (Management Training).
+* Resolving Conflicts of Interest (Management Training).
+* Behavioural Interviewing (Management Training).
+* Ethics Overview (Management Training).
+* Global Competition (Management Training).
+* Information Security (Management Training).
