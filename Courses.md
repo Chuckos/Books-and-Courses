@@ -22,6 +22,10 @@ List of courses, achievemnts, training, conference that I have taken during my w
 ### March
 * [Learn Ruby (Codecademy.com)](https://www.codecademy.com/learn/ruby)
 
+## 2013
+### Nov
+* [Technical Web Testing 101 (by Alan Richardson, udemy.com)](https://www.udemy.com/technical-web-testing-101/)
+
 ## 2012
 ### June
 * [Learn JavaScript (Codecademy.com)](https://www.codecademy.com/learn/javascript)
