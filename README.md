@@ -1,8 +1,8 @@
-## List of Courses And Books
+## List of Books And Training
 
-List of courses and books that I have completed and highly recommend to other people
+List of books and training that I have completed.
 
-[View my book list](https://github.com/Chuckos/Learning-and-Books/blob/master/Books.md)
+[Book list](https://github.com/Chuckos/Learning-and-Books/blob/master/Books.md)
 
-[View my course list](https://github.com/Chuckos/Learning-and-Books/blob/master/Courses.md)
+[Training list](https://github.com/Chuckos/Learning-and-Books/blob/master/Courses.md)
 
