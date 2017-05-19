@@ -27,10 +27,16 @@ List of courses, achievemnts, training, conference that I have taken during my w
 ### August 2015
 * [Scrum Master Skills](https://app.pluralsight.com/library/courses/scrum-master-skills/table-of-contents)
 
+### July 2015
+* [So You Want to be an Entrepreneur?](https://app.pluralsight.com/library/courses/want-to-be-entrepreneur/table-of-contents)
+
 ### January 2015
 * [BBST Bug Advocacy Course](https://www.associationforsoftwaretesting.org/training-2/courses/bug-advocacy/)
 
 ## 2014
+### November 2014
+* [Black Box Software Testing Foundations Course](https://www.associationforsoftwaretesting.org/training-2/courses/foundations/)
+
 ### March 2014
 * [Learn Ruby (Codecademy.com)](https://www.codecademy.com/learn/ruby)
 
