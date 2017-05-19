@@ -14,7 +14,7 @@ List of courses, achievemnts, training, conference that I have taken during my w
 * [BBST Test Design Course](https://www.associationforsoftwaretesting.org/training-2/courses/test-design/)
 
 ### May 2016
-* [Javacript Road Trip Part 1,2,3](https://www.codeschool.com/learn/javascript)
+* [Javacript Road Trip Part 1,2,3 (codeschool.com)](https://www.codeschool.com/learn/javascript)
 
 ### January 2016
 * [Learn the Command Line (Codecademy.com)](https://www.codecademy.com/learn/learn-the-command-line)
@@ -25,10 +25,10 @@ List of courses, achievemnts, training, conference that I have taken during my w
 * [Learn Git (Codecademy.com)](https://www.codecademy.com/learn/learn-git)
 
 ### August 2015
-* [Scrum Master Skills](https://app.pluralsight.com/library/courses/scrum-master-skills/table-of-contents)
+* [Scrum Master Skills (pluralsight.com)](https://app.pluralsight.com/library/courses/scrum-master-skills/table-of-contents)
 
 ### July 2015
-* [So You Want to be an Entrepreneur?](https://app.pluralsight.com/library/courses/want-to-be-entrepreneur/table-of-contents)
+* [So You Want to be an Entrepreneur? (pluralsight.com)](https://app.pluralsight.com/library/courses/want-to-be-entrepreneur/table-of-contents)
 
 ### January 2015
 * [BBST Bug Advocacy Course](https://www.associationforsoftwaretesting.org/training-2/courses/bug-advocacy/)
