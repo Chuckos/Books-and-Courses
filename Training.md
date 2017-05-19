@@ -10,6 +10,9 @@ List of courses, achievemnts, training, conference that I have taken during my w
 
 ## 2016
 
+### December 2016
+* [BBST Test Design Course](https://www.associationforsoftwaretesting.org/training-2/courses/test-design/)
+
 ### May 2016
 * [Javacript Road Trip Part 1,2,3](https://www.codeschool.com/learn/javascript)
 
@@ -20,6 +23,9 @@ List of courses, achievemnts, training, conference that I have taken during my w
 ## 2015
 ### December 2015
 * [Learn Git (Codecademy.com)](https://www.codecademy.com/learn/learn-git)
+
+### August 2015
+* [Scrum Master Skills](https://app.pluralsight.com/library/courses/scrum-master-skills/table-of-contents)
 
 ### January 2015
 * [BBST Bug Advocacy Course](https://www.associationforsoftwaretesting.org/training-2/courses/bug-advocacy/)
