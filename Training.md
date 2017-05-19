@@ -56,6 +56,9 @@ List of courses, achievemnts, training, conference that I have taken during my w
 ### March 2014
 * [Learn Ruby (Codecademy.com)](https://www.codecademy.com/learn/ruby)
 
+### Jan 2014
+* [Understanding and Eliminating Technical Debt (Pluralsight.com)](https://app.pluralsight.com/library/courses/understanding-eliminating-technical-debt/table-of-contents)
+
 ## 2013
 ### Nov 2013
 * [Technical Web Testing 101 (by Alan Richardson, udemy.com)](https://www.udemy.com/technical-web-testing-101/)
