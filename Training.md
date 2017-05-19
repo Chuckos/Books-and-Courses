@@ -37,7 +37,11 @@ List of courses, achievemnts, training, conference that I have taken during my w
 
 
 ## 2015
+
 ### December 2015
+* [BBST Bug Advocacy Course](https://www.associationforsoftwaretesting.org/training-2/courses/bug-advocacy/)
+
+### November 2015
 * [Learn Git (Codecademy.com)](https://www.codecademy.com/learn/learn-git)
 
 ### August 2015
@@ -45,9 +49,6 @@ List of courses, achievemnts, training, conference that I have taken during my w
 
 ### July 2015
 * [So You Want to be an Entrepreneur? (pluralsight.com)](https://app.pluralsight.com/library/courses/want-to-be-entrepreneur/table-of-contents)
-
-### January 2015
-* [BBST Bug Advocacy Course](https://www.associationforsoftwaretesting.org/training-2/courses/bug-advocacy/)
 
 ## 2014
 ### November 2014
