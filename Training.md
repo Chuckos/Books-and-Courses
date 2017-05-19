@@ -60,10 +60,16 @@ List of courses, achievemnts, training, conference that I have taken during my w
 * [Understanding and Eliminating Technical Debt (Pluralsight.com)](https://app.pluralsight.com/library/courses/understanding-eliminating-technical-debt/table-of-contents)
 
 ## 2013
+### Dec 2013
+* [Creating an Automated Testing Framework with Selenium (Pluralsight.com)](https://app.pluralsight.com/library/courses/automated-testing-framework-selenium/table-of-contents)
+
 ### Nov 2013
 * [Technical Web Testing 101 (by Alan Richardson, udemy.com)](https://www.udemy.com/technical-web-testing-101/)
 
 ## 2012
+### Oct 2012
+* [Automated Web Testing with Selenium (pluralsight.com)](https://app.pluralsight.com/library/courses/selenium/table-of-contents)
+
 ### June 2012
 * [Learn JavaScript (Codecademy.com)](https://www.codecademy.com/learn/javascript)
 
