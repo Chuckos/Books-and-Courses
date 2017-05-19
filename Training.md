@@ -73,6 +73,11 @@ List of courses, achievemnts, training, conference that I have taken during my w
 ### June 2012
 * [Learn JavaScript (Codecademy.com)](https://www.codecademy.com/learn/javascript)
 
+## 2010
+
+### May 2010
+* [BDD Specifications with example (by Adzic Gojko)]()
+
 ## 2009
 ### April
 * [ISTQB Foundation Certificate in Software Testing](http://www.istqb.org/certification-path-root/foundation-level/foundation-level-content.html)
