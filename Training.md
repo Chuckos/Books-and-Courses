@@ -21,6 +21,9 @@ List of courses, achievemnts, training, conference that I have taken during my w
 ### December 2015
 * [Learn Git (Codecademy.com)](https://www.codecademy.com/learn/learn-git)
 
+### January 2015
+* [BBST Bug Advocacy Course](https://www.associationforsoftwaretesting.org/training-2/courses/bug-advocacy/)
+
 ## 2014
 ### March 2014
 * [Learn Ruby (Codecademy.com)](https://www.codecademy.com/learn/ruby)
