@@ -9,7 +9,7 @@ List of books that I have read and highly recommend to other people.  The books 
 * [How Google Tests Software (James A Whittaker)](https://www.amazon.co.uk/Google-Tests-Software-James-Whittaker/dp/0321803027/ref=sr_1_1?s=books&ie=UTF8&qid=1485772737&sr=1-1&keywords=how+google+test+software)
 * [How to Reduce the Cost of Software Testing (Matthew Heusser & Govind Kulkarni)](https://www.amazon.co.uk/How-Reduce-Cost-Software-Testing/dp/1439861552/ref=sr_1_1?s=books&ie=UTF8&qid=1485772786&sr=1-1&keywords=how+to+reduce+the+cost+of+software+testing)
 * [The Little Black Book on Test Design (Rikard Edgren)](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf)
-* [Experience of test automation (by Dorothy Graham)](https://www.amazon.co.uk/d/Books/Experiences-Test-Automation-Case-Studies-Software/0321754069)
+* [Experience of test automation (Dorothy Graham)](https://www.amazon.co.uk/d/Books/Experiences-Test-Automation-Case-Studies-Software/0321754069)
 
 
 ## Personal Development
