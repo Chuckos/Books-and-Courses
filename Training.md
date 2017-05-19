@@ -3,10 +3,22 @@ List of courses, achievemnts, training, conference that I have taken during my w
 
 ## 2017
 
+### May 2017
+* [Basic Algorithm Scripting (freeCodeCamp.com)](https://github.com/Chuckos/Code-Camp-Projects/tree/master/Javascript-Challenges/Basic-Algorithm-Scripting)
+
 ### March 2017
 * [Attend TestBash Brighton 2017 Conference](https://dojo.ministryoftesting.com/events/testbash-brighton-2017)
 * [Training Workshop: Talk About Testing by NOT Talking about Testing (by Keith Klain & Martin Hynie & Vernon Richards).](https://dojo.ministryoftesting.com/events/testbash-brighton-2017)
 * [Training Workshop: Web And Mobile Security - Attack Like A Black-Hat Hacker (by Santhosh Tuppad).](https://dojo.ministryoftesting.com/events/testbash-brighton-2017)
+
+### Feb 2017:
+* [Basic Front End Development Projects (freeCodeCamp.com)](https://github.com/Chuckos/Code-Camp-Projects/tree/master/Tribute-page)
+
+### Jan 2017:
+* [HTML5 and CSS (freeCodeCamp.com)](https://www.freecodecamp.com/map-aside#nested-HTML5andCSS)
+* [Responsive Design with Bootstrap (freeCodeCamp.com)](https://www.freecodecamp.com/map-aside#nested-collapseResponsiveDesignwithBootstrap)
+* [jQuery (freeCodeCamp.com)](https://www.freecodecamp.com/map-aside#nested-collapsejQuery)
+
 
 ## 2016
 
