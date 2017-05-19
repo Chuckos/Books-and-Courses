@@ -72,6 +72,7 @@ List of courses, achievemnts, training, conference that I have taken during my w
 
 ### Oct 2013
 * [Web Security and the OWASP Top 10: The Big Picture - by Troy Hunt (pluralsight)](https://app.pluralsight.com/library/courses/web-security-owasp-top10-big-picture/table-of-contents)
+* [Career Management 2.0, by Jason Alba](https://app.pluralsight.com/library/courses/career-management-2dot0/table-of-contents)
 
 ### Sep 2013
 * [Hack Yourself First: How to go on the Cyber-Offense - by Troy Hunt](https://app.pluralsight.com/library/courses/hack-yourself-first/table-of-contents)
@@ -79,6 +80,9 @@ List of courses, achievemnts, training, conference that I have taken during my w
 ### June 2013
 * (C# From Scratch, by Jesse Liberty)[https://app.pluralsight.com/library/courses/csharp-from-scratch/table-of-contents]
 * (C# From Scratch - Part 2, by Jesse Liberty)[https://app.pluralsight.com/library/courses/csharp-from-scratch-part2/table-of-contents]
+
+### March 2013
+* (Career and Survival Strategies for Software Developers by Dan Appleman)[https://app.pluralsight.com/library/courses/career-survival-strategies-4devs/table-of-contents]
 
 ## 2012
 ### Oct 2012
