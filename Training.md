@@ -67,6 +67,9 @@ List of courses, achievemnts, training, conference that I have taken during my w
 ### Nov 2013
 * [Technical Web Testing 101 (by Alan Richardson, udemy.com)](https://www.udemy.com/technical-web-testing-101/)
 
+### Oct 2013
+* [Web Security and the OWASP Top 10: The Big Picture - by Troy Hunt (pluralsight)](https://app.pluralsight.com/library/courses/web-security-owasp-top10-big-picture/table-of-contents)
+
 ## 2012
 ### Oct 2012
 * [Automated Web Testing with Selenium (pluralsight.com)](https://app.pluralsight.com/library/courses/selenium/table-of-contents)
