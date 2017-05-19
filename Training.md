@@ -6,6 +6,10 @@ List of courses, achievemnts, training, conference that I have taken during my w
 ### May 2017
 * [Basic Algorithm Scripting (freeCodeCamp.com)](https://github.com/Chuckos/Code-Camp-Projects/tree/master/Javascript-Challenges/Basic-Algorithm-Scripting)
 
+### April 2017
+* [Basic JavaScript (freeCodeCamp.com)](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript)
+* [Object Oriented and Functional Programming (freeCodeCamp.com)](https://www.freecodecamp.com/map-aside#nested-collapseObjectOrientedandFunctionalProgramming)
+
 ### March 2017
 * [Attend TestBash Brighton 2017 Conference](https://dojo.ministryoftesting.com/events/testbash-brighton-2017)
 * [Training Workshop: Talk About Testing by NOT Talking about Testing (by Keith Klain & Martin Hynie & Vernon Richards).](https://dojo.ministryoftesting.com/events/testbash-brighton-2017)
