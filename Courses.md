@@ -7,33 +7,25 @@ List of courses, achievemnts, training, conference that I have taken during my w
 * [Training Workshop: Web And Mobile Security - Attack Like A Black-Hat Hacker (by Santhosh Tuppad).](https://dojo.ministryoftesting.com/events/testbash-brighton-2017)
 
 
-
-
-## 2016
-
-### May:
+### May 2016
 * [Javacript Road Trip Part 1,2,3](https://www.codeschool.com/learn/javascript)
 
-### January
+### January 2016
 * [Learn the Command Line (Codecademy.com)](https://www.codecademy.com/learn/learn-the-command-line)
 
 
 
-## 2015
-### December
+### December 2015
 * [Learn Git (Codecademy.com)](https://www.codecademy.com/learn/learn-git)
 
 
-## 2014
-### March
+### March 2014
 * [Learn Ruby (Codecademy.com)](https://www.codecademy.com/learn/ruby)
 
-## 2013
-### Nov
+### Nov 2013
 * [Technical Web Testing 101 (by Alan Richardson, udemy.com)](https://www.udemy.com/technical-web-testing-101/)
 
-## 2012
-### June
+### June 2012
 * [Learn JavaScript (Codecademy.com)](https://www.codecademy.com/learn/javascript)
 
 ## 2009
