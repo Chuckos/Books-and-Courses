@@ -3,6 +3,9 @@ List of courses, achievemnts, training, conference that I have taken during my w
 
 ## 2017
 
+#### July 2017
+* [New Relic Self-Guided Courses](https://learn.newrelic.com/courses)
+
 #### May 2017
 * [Basic Algorithm Scripting (freeCodeCamp.com)](https://github.com/Chuckos/Code-Camp-Projects/tree/master/Javascript-Challenges/Basic-Algorithm-Scripting)
 
