@@ -4,7 +4,7 @@ List of courses, achievemnts, training, conference that I have taken during my w
 ## 2017
 
 #### September 2017
-* [JSON APIs and Ajax (freeCodeCamp.com)] (https://www.freecodecamp.org/map-aside#nested-collapseJSONAPIsandAjax)
+* [JSON APIs and Ajax (freeCodeCamp.com)](https://www.freecodecamp.org/map-aside#nested-collapseJSONAPIsandAjax)
 
 #### July 2017
 * [New Relic Self-Guided Courses (New Relic University)](https://learn.newrelic.com/courses)
