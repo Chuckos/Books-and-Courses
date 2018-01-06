@@ -24,8 +24,11 @@ List of books that I have read and highly recommend to other people.  The books 
 ## Internet of Things & Web of Things
 * [Building the Web of Thngs: (Dominique D. Guinard)](https://www.manning.com/books/building-the-web-of-things)
 
-## Miscellaneous
+## Critical Thinking
 * [Thinking slow and fast: (Daniel Khaneman)](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576)
+* [Predictably Irrational: (Dan Ariely)](https://www.amazon.co.uk/Predictably-Irrational-Hidden-Forces-Decisions/dp/0007256531)
+
+## Miscellaneous
 * [The secrets of consulting: (Gerald Weinberg)](https://www.amazon.co.uk/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
 * [The Art of Application Performance Testing - Ian Molyneaux](https://www.amazon.co.uk/Art-Application-Performance-Testing-Programmers/dp/0596520662)
 
