@@ -1,6 +1,11 @@
 # Training, Courses, Achievements & Conferences
 List of courses, achievemnts, training, conference that I have taken during my working career.
 
+## 2018
+
+#### January 2018
+* [Performance Testing 101 (Ministry Of Testing - Dojo)](https://dojo.ministryoftesting.com/series/performance-testing-101-simon-knight)
+
 ## 2017
 
 #### September 2017
