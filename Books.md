@@ -27,6 +27,7 @@ List of books that I have read and highly recommend to other people.  The books 
 ## Critical Thinking
 * [Thinking slow and fast: (Daniel Khaneman)](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576)
 * [Predictably Irrational: (Dan Ariely)](https://www.amazon.co.uk/Predictably-Irrational-Hidden-Forces-Decisions/dp/0007256531)
+* [Tacit & Explicit Knowledge (Harry Collins)](https://www.amazon.co.uk/Tacit-Explicit-Knowledge-Harry-Collins/dp/022600421X)
 
 ## Miscellaneous
 * [The secrets of consulting: (Gerald Weinberg)](https://www.amazon.co.uk/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
