@@ -3,6 +3,15 @@ List of courses, achievemnts, training, conference that I have taken during my w
 
 ## 2018
 
+#### March 2018
+* [Attend TestBash Brighton 2018 Conference](https://dojo.ministryoftesting.com/events/testbash-brighton-2018)
+* [Training Workshop: Web Application Security: A Hands-on Testing Challenge (by Dan Billing).](https://dojo.ministryoftesting.com/events/testbash-brighton-2018)
+* [Training Workshop: Life's a Riot with Stubs, Fakes, Spies and Mocks (by Christopher Chant & Ash Winter).](https://dojo.ministryoftesting.com/events/testbash-brighton-2018)
+
+
+#### February 2018
+* [Learn Java (Codecademy.com)](https://www.codecademy.com/learn/learn-java)
+
 #### January 2018
 * [Performance Testing 101 (Ministry Of Testing - Dojo)](https://dojo.ministryoftesting.com/series/performance-testing-101-simon-knight)
 
