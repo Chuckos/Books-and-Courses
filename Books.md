@@ -10,10 +10,13 @@ List of books that I have read and highly recommend to other people.  The books 
 * [How to Reduce the Cost of Software Testing (Matthew Heusser & Govind Kulkarni)](https://www.amazon.co.uk/How-Reduce-Cost-Software-Testing/dp/1439861552/ref=sr_1_1?s=books&ie=UTF8&qid=1485772786&sr=1-1&keywords=how+to+reduce+the+cost+of+software+testing)
 * [The Little Black Book on Test Design (Rikard Edgren)](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf)
 * [Experience of test automation (Dorothy Graham)](https://www.amazon.co.uk/d/Books/Experiences-Test-Automation-Case-Studies-Software/0321754069)
+* [The Art of Application Performance Testing - Ian Molyneaux](https://www.amazon.co.uk/Art-Application-Performance-Testing-Programmers/dp/0596520662)
 
 
 ## Personal Development
 * [The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin)](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=sr_1_1?s=books&ie=UTF8&qid=1485777161&sr=1-1&keywords=the+clean+coder)
+* [The secrets of consulting: (Gerald Weinberg)](https://www.amazon.co.uk/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
+* [Deep Work: Rules for Focused Success in a Distracted World (Cal Newport)] (http://calnewport.com/books/deep-work/)
 
 
 ## Leadership & Management.
@@ -29,7 +32,11 @@ List of books that I have read and highly recommend to other people.  The books 
 * [Predictably Irrational: (Dan Ariely)](https://www.amazon.co.uk/Predictably-Irrational-Hidden-Forces-Decisions/dp/0007256531)
 * [Tacit & Explicit Knowledge (Harry Collins)](https://www.amazon.co.uk/Tacit-Explicit-Knowledge-Harry-Collins/dp/022600421X)
 
+## Data Science 
+* TBC
+
 ## Miscellaneous
-* [The secrets of consulting: (Gerald Weinberg)](https://www.amazon.co.uk/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
-* [The Art of Application Performance Testing - Ian Molyneaux](https://www.amazon.co.uk/Art-Application-Performance-Testing-Programmers/dp/0596520662)
+* TBC
+
+
 
