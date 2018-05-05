@@ -15,11 +15,11 @@ List of books that I have read and highly recommend to other people.  The books 
 
 ## Personal Development
 * [The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin)](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=sr_1_1?s=books&ie=UTF8&qid=1485777161&sr=1-1&keywords=the+clean+coder)
-* [The secrets of consulting: (Gerald Weinberg)](https://www.amazon.co.uk/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
+* [The Secrets of consulting: (Gerald Weinberg)](https://www.amazon.co.uk/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
 * [Deep Work: Rules for Focused Success in a Distracted World (Cal Newport)] (http://calnewport.com/books/deep-work/)
 
 
-## Leadership & Management.
+## Leadership, Management & Organisational Culture
 * [The Mentor Leader (Tony Dungy)](https://www.amazon.co.uk/d/Books/Mentor-Leader-Various/141433804X/ref=sr_1_1?s=books&ie=UTF8&qid=1485777276&sr=1-1&keywords=the+mentor+leader)
 * [Who Says Elephants Can't Dance?: How I Turned Around IBM (Louis V. Gerstner Jr)](https://www.amazon.co.uk/d/Books/Who-Says-Elephants-Cant-Dance-Turned-Around/0007170874/ref=sr_1_1?s=books&ie=UTF8&qid=1485777369&sr=1-1&keywords=who+says+elephants+can%27t+dance)
 * [Drive (Daniel H. Pink)](https://www.amazon.co.uk/Drive-Daniel-H-Pink/dp/184767769X/ref=sr_1_1?s=books&ie=UTF8&qid=1485777433&sr=1-1&keywords=drive)
@@ -28,15 +28,16 @@ List of books that I have read and highly recommend to other people.  The books 
 * [Building the Web of Thngs: (Dominique D. Guinard)](https://www.manning.com/books/building-the-web-of-things)
 
 ## Critical Thinking
-* [Thinking slow and fast: (Daniel Khaneman)](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576)
-* [Predictably Irrational: (Dan Ariely)](https://www.amazon.co.uk/Predictably-Irrational-Hidden-Forces-Decisions/dp/0007256531)
+* [Thinking slow and fast (Daniel Khaneman)](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576)
+* [Predictably Irrational (Dan Ariely)](https://www.amazon.co.uk/Predictably-Irrational-Hidden-Forces-Decisions/dp/0007256531)
 * [Tacit & Explicit Knowledge (Harry Collins)](https://www.amazon.co.uk/Tacit-Explicit-Knowledge-Harry-Collins/dp/022600421X)
+* [Are Your Lights On? (Donald C. Gause & Gerald M. Weinberg)](https://leanpub.com/areyourlightson) 
 
-## Data Science 
-* TBC
+## Data 
+* [How to Measure Anything: Finding the Value of Intangibles in Business (Douglas W. Hubbard)](https://www.amazon.co.uk/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U/ref=sr_1_1?s=books&ie=UTF8&qid=1525547346&sr=1-1&keywords=how+to+measure+anything)
 
 ## Miscellaneous
-* TBC
+* [The Millionaire Next Door: The Surprising Secrets of America's Wealthy (Thomas J. Stanley & William D. Danko)](https://www.amazon.co.uk/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=CR39PTYX8B0ZBB8AS8Q7)
 
 
 
