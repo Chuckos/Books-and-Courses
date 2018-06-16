@@ -16,7 +16,7 @@ List of books that I have read and highly recommend to other people.  The books 
 ## Personal Development
 * [The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin)](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=sr_1_1?s=books&ie=UTF8&qid=1485777161&sr=1-1&keywords=the+clean+coder)
 * [The Secrets of consulting: (Gerald Weinberg)](https://www.amazon.co.uk/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
-* [Deep Work: Rules for Focused Success in a Distracted World (Cal Newport)] (http://calnewport.com/books/deep-work/)
+* [Deep Work: Rules for Focused Success in a Distracted World: (Cal Newport)](http://calnewport.com/books/deep-work/)
 
 
 ## Leadership, Management & Organisational Culture
