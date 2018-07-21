@@ -31,7 +31,10 @@ List of books that I have read and highly recommend to other people.  The books 
 * [Thinking slow and fast (Daniel Khaneman)](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576)
 * [Predictably Irrational (Dan Ariely)](https://www.amazon.co.uk/Predictably-Irrational-Hidden-Forces-Decisions/dp/0007256531)
 * [Tacit & Explicit Knowledge (Harry Collins)](https://www.amazon.co.uk/Tacit-Explicit-Knowledge-Harry-Collins/dp/022600421X)
-* [Are Your Lights On? (Donald C. Gause & Gerald M. Weinberg)](https://leanpub.com/areyourlightson) 
+* [Are Your Lights On? (Donald C. Gause & Gerald M. Weinberg)](https://leanpub.com/areyourlightson)
+* [General Systems Thinking (Gerald M. Weinberg)](https://leanpub.com/generalsystemsthinking)
+* [Podcast: Revisionist History (Malcolm Gladwell)](http://revisionisthistory.com/)
+
 
 ## Data 
 * [How to Measure Anything: Finding the Value of Intangibles in Business (Douglas W. Hubbard)](https://www.amazon.co.uk/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U/ref=sr_1_1?s=books&ie=UTF8&qid=1525547346&sr=1-1&keywords=how+to+measure+anything)
