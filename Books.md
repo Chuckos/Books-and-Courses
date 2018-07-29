@@ -23,6 +23,8 @@ List of books that I have read and highly recommend to other people.  The books 
 * [The Mentor Leader (Tony Dungy)](https://www.amazon.co.uk/d/Books/Mentor-Leader-Various/141433804X/ref=sr_1_1?s=books&ie=UTF8&qid=1485777276&sr=1-1&keywords=the+mentor+leader)
 * [Who Says Elephants Can't Dance?: How I Turned Around IBM (Louis V. Gerstner Jr)](https://www.amazon.co.uk/d/Books/Who-Says-Elephants-Cant-Dance-Turned-Around/0007170874/ref=sr_1_1?s=books&ie=UTF8&qid=1485777369&sr=1-1&keywords=who+says+elephants+can%27t+dance)
 * [Drive (Daniel H. Pink)](https://www.amazon.co.uk/Drive-Daniel-H-Pink/dp/184767769X/ref=sr_1_1?s=books&ie=UTF8&qid=1485777433&sr=1-1&keywords=drive)
+* [Becoming a Technical Leader (Gerald M. Weinberg)](https://leanpub.com/becomingatechnicalleader)
+
 
 ## Internet of Things & Web of Things
 * [Building the Web of Thngs: (Dominique D. Guinard)](https://www.manning.com/books/building-the-web-of-things)
