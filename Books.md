@@ -1,6 +1,6 @@
-# Books
+# Books And Podcasts
 
-List of books that I have read and highly recommend to other people.  The books I have listed have been very influential on my career and has helped me become a better tester, manager and leader.
+List of books or podcasts that I have read or listened to which I would highly recommend to other people.  The books or podcasts I have listed have been very influential on my career and has helped me become a better tester, quality engineer, manager and leader.
 
 ## QA 
 * [Agile Testing (Lisa Crispin & J Gregory)](https://www.amazon.co.uk/Agile-Testing-Practical-Addison-Wesley-Signature/dp/0321534468/ref=sr_1_1?ie=UTF8&qid=1485771895&sr=8-1&keywords=agile+testing)
@@ -17,6 +17,7 @@ List of books that I have read and highly recommend to other people.  The books 
 * [The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin)](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=sr_1_1?s=books&ie=UTF8&qid=1485777161&sr=1-1&keywords=the+clean+coder)
 * [The Secrets of consulting: (Gerald Weinberg)](https://www.amazon.co.uk/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
 * [Deep Work: Rules for Focused Success in a Distracted World: (Cal Newport)](http://calnewport.com/books/deep-work/)
+* [How to Win Friends & Influence People (Dale Carnegie)](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/)
 
 
 ## Leadership, Management & Organisational Culture
@@ -24,6 +25,8 @@ List of books that I have read and highly recommend to other people.  The books 
 * [Who Says Elephants Can't Dance?: How I Turned Around IBM (Louis V. Gerstner Jr)](https://www.amazon.co.uk/d/Books/Who-Says-Elephants-Cant-Dance-Turned-Around/0007170874/ref=sr_1_1?s=books&ie=UTF8&qid=1485777369&sr=1-1&keywords=who+says+elephants+can%27t+dance)
 * [Drive (Daniel H. Pink)](https://www.amazon.co.uk/Drive-Daniel-H-Pink/dp/184767769X/ref=sr_1_1?s=books&ie=UTF8&qid=1485777433&sr=1-1&keywords=drive)
 * [Becoming a Technical Leader (Gerald M. Weinberg)](https://leanpub.com/becomingatechnicalleader)
+* [The Reengineering Alternative (William E. Schneider)](https://www.amazon.com/Reengineering-Alternative-William-Schneider/dp/0071359818)
+* [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses(Eric Ries)](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/)
 
 
 ## Internet of Things & Web of Things
