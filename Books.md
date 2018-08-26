@@ -27,7 +27,7 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [Becoming a Technical Leader (Gerald M. Weinberg)](https://leanpub.com/becomingatechnicalleader)
 * [The Reengineering Alternative (William E. Schneider)](https://www.amazon.com/Reengineering-Alternative-William-Schneider/dp/0071359818)
 * [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses(Eric Ries)](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/)
-*[The Five Dysfunctions of a Team: A Leadership Fable(Patrick M. Lencioni)](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756)
+* [The Five Dysfunctions of a Team: A Leadership Fable(Patrick M. Lencioni)](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756)
 
 
 ## Internet of Things & Web of Things
