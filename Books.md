@@ -15,9 +15,10 @@ List of books or podcasts that I have read or listened to which I would highly r
 
 ## Personal Development
 * [The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin)](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=sr_1_1?s=books&ie=UTF8&qid=1485777161&sr=1-1&keywords=the+clean+coder)
-* [The Secrets of consulting: (Gerald Weinberg)](https://www.amazon.co.uk/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
+* [The Secrets of Consulting: (Gerald Weinberg)](https://www.amazon.co.uk/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
 * [Deep Work: Rules for Focused Success in a Distracted World: (Cal Newport)](http://calnewport.com/books/deep-work/)
 * [How to Win Friends & Influence People (Dale Carnegie)](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/)
+* [Influence: The Psychology of Persuasion: (Robert B. Cialdini)](https://www.amazon.co.uk/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/)
 
 
 ## Leadership, Management & Organisational Culture
