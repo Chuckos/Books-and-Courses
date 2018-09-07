@@ -27,8 +27,9 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [Drive (Daniel H. Pink)](https://www.amazon.co.uk/Drive-Daniel-H-Pink/dp/184767769X/ref=sr_1_1?s=books&ie=UTF8&qid=1485777433&sr=1-1&keywords=drive)
 * [Becoming a Technical Leader (Gerald M. Weinberg)](https://leanpub.com/becomingatechnicalleader)
 * [The Reengineering Alternative (William E. Schneider)](https://www.amazon.com/Reengineering-Alternative-William-Schneider/dp/0071359818)
-* [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses(Eric Ries)](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/)
-* [The Five Dysfunctions of a Team: A Leadership Fable(Patrick M. Lencioni)](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756)
+* [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses (Eric Ries)](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/)
+* [The Five Dysfunctions of a Team: A Leadership Fable (Patrick M. Lencioni)](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756)
+* [The Starfish And The Spider: The Unstoppable Power Of Leaderless Organisation (Ori Brafman And Rod A. Beckstorm)](https://www.amazon.co.uk/dp/B000S1LU3M/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 
 ## Internet of Things & Web of Things
