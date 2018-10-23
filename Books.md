@@ -30,6 +30,7 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses (Eric Ries)](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/)
 * [The Five Dysfunctions of a Team: A Leadership Fable (Patrick M. Lencioni)](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756)
 * [The Starfish And The Spider: The Unstoppable Power Of Leaderless Organisation (Ori Brafman And Rod A. Beckstorm)](https://www.amazon.co.uk/dp/B000S1LU3M/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* [Switch: How to Change Things When Change Is Hard (By Chip Heath & Dan Heath)](https://www.amazon.com/gp/product/0385528752?ie=UTF8&tag=gorgegreen-20&linkCode=xm2&camp=1789&creativeASIN=0385528752)
 
 
 ## Internet of Things & Web of Things
