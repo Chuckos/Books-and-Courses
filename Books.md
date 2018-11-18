@@ -11,6 +11,7 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [The Little Black Book on Test Design (Rikard Edgren)](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf)
 * [Experience of test automation (Dorothy Graham)](https://www.amazon.co.uk/d/Books/Experiences-Test-Automation-Case-Studies-Software/0321754069)
 * [The Art of Application Performance Testing - Ian Molyneaux](https://www.amazon.co.uk/Art-Application-Performance-Testing-Programmers/dp/0596520662)
+* [Lessons Learned in Software Testing (Cem Kaner, James Bach & Bret Pettichord)](https://www.amazon.co.uk/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124)
 
 
 ## Personal Development
@@ -19,7 +20,10 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [Deep Work: Rules for Focused Success in a Distracted World: (Cal Newport)](http://calnewport.com/books/deep-work/)
 * [How to Win Friends & Influence People (Dale Carnegie)](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/)
 * [Influence: The Psychology of Persuasion: (Robert B. Cialdini)](https://www.amazon.co.uk/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/)
-
+* [Secrets of a Buccaneer-Scholar: How Self-Education and the Pursuit of Passion can Lead to a Lifetime of Success (James Back)](https://www.amazon.co.uk/Secrets-Buccaneer-Scholar-Self-Education-Pursuit-Lifetime/dp/1847375359)
+* [Getting to Yes: Negotiating an agreement without giving in (Roger Fisher, William Ury)
+](https://www.amazon.co.uk/gp/product/B008YUNDJS/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)
+* [Never Split the Difference: Negotiating as if Your Life Depended on It (Chris Voss & Tahl Raz)](https://www.amazon.co.uk/gp/product/B018FHCPDO/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)
 
 ## Leadership, Management & Organisational Culture
 * [The Mentor Leader (Tony Dungy)](https://www.amazon.co.uk/d/Books/Mentor-Leader-Various/141433804X/ref=sr_1_1?s=books&ie=UTF8&qid=1485777276&sr=1-1&keywords=the+mentor+leader)
