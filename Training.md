@@ -1,7 +1,14 @@
 # Training, Courses, Achievements & Conferences
 List of courses, achievemnts, training, conference that I have taken during my working career.
 
+## 2019
+
+#### Jan 2019
+
 ## 2018
+
+#### December 2018
+* [AWS Certified Developer - Associate Certification](https://s3.eu-west-2.amazonaws.com/charles-docs/AWS+Certified+Developer+-+Associate+certificate.pdf)
 
 #### March 2018
 * [Attend TestBash Brighton 2018 Conference](https://dojo.ministryoftesting.com/events/testbash-brighton-2018)
