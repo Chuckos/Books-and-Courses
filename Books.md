@@ -2,7 +2,7 @@
 
 List of books or podcasts that I have read or listened to which I would highly recommend to other people.  The books or podcasts I have listed have been very influential on my career and has helped me become a better tester, quality engineer, manager and leader.
 
-## QA 
+## Quality And Test 
 * [Agile Testing (Lisa Crispin & J Gregory)](https://www.amazon.co.uk/Agile-Testing-Practical-Addison-Wesley-Signature/dp/0321534468/ref=sr_1_1?ie=UTF8&qid=1485771895&sr=8-1&keywords=agile+testing)
 * [More Agile Testing (Lisa Crispin & J Gregory)](https://www.amazon.co.uk/More-Agile-Testing-Addison-Wesley-Signature/dp/0321967054/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=CS6RSWJ2F7QC6EZFKGMC)
 * [Explore It: Exploratory testing (Elizabeth Hendrickson)](https://www.amazon.co.uk/Explore-Increase-Confidence-Exploratory-Testing/dp/1937785025/ref=sr_1_1?s=books&ie=UTF8&qid=1485772670&sr=1-1&keywords=explore+it)
@@ -12,6 +12,8 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [Experience of test automation (Dorothy Graham)](https://www.amazon.co.uk/d/Books/Experiences-Test-Automation-Case-Studies-Software/0321754069)
 * [The Art of Application Performance Testing - Ian Molyneaux](https://www.amazon.co.uk/Art-Application-Performance-Testing-Programmers/dp/0596520662)
 * [Lessons Learned in Software Testing (Cem Kaner, James Bach & Bret Pettichord)](https://www.amazon.co.uk/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124)
+*[The Devops Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations (by Gene Kim, Patrick Debois, John Willis)](https://www.amazon.co.uk/Devops-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
+*[Podcast: AB Testing (Brent Jensen and Alan Page)](https://testingpodcast.com/category/ab-testing/)
 
 
 ## Personal Development
