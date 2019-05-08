@@ -24,6 +24,8 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [Getting to Yes: Negotiating an agreement without giving in (Roger Fisher, William Ury)
 ](https://www.amazon.co.uk/gp/product/B008YUNDJS/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)
 * [Never Split the Difference: Negotiating as if Your Life Depended on It (Chris Voss & Tahl Raz)](https://www.amazon.co.uk/gp/product/B018FHCPDO/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)
+* [Can't Hurt Me: Master Your Mind and Defy the Odds (by David Goggins)](https://www.amazon.co.uk/Cant-Hurt-Me-Master-Your/dp/1544512279/ref=sr_1_1?crid=35B8T1LIEBH9S&keywords=you+cant+hurt+me+by+david+goggins&qid=1557335157&s=books&sprefix=you+can%27t+hur%2Cstripbooks%2C126&sr=1-1)
+* [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life (by Mark Manson)](https://www.amazon.co.uk/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=sr_1_1?crid=1CMGGRT9JIYHX&keywords=the+subtle+art+of+not+giving+a+fck&qid=1557335227&s=books&sprefix=the+sub%2Cstripbooks%2C125&sr=1-1)
 
 ## Leadership, Management & Organisational Culture
 * [The Mentor Leader (Tony Dungy)](https://www.amazon.co.uk/d/Books/Mentor-Leader-Various/141433804X/ref=sr_1_1?s=books&ie=UTF8&qid=1485777276&sr=1-1&keywords=the+mentor+leader)
@@ -35,6 +37,8 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [The Five Dysfunctions of a Team: A Leadership Fable (Patrick M. Lencioni)](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756)
 * [The Starfish And The Spider: The Unstoppable Power Of Leaderless Organisation (Ori Brafman And Rod A. Beckstorm)](https://www.amazon.co.uk/dp/B000S1LU3M/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 * [Switch: How to Change Things When Change Is Hard (By Chip Heath & Dan Heath)](https://www.amazon.com/gp/product/0385528752?ie=UTF8&tag=gorgegreen-20&linkCode=xm2&camp=1789&creativeASIN=0385528752)
+* [Extreme Ownership - How U.S. Navy SEALS LEAD and WIN (By Jocko Willink & Leif Babin)](https://www.amazon.co.uk/Extreme-Ownership-Jocko-Willink/dp/1250183863/ref=sr_1_1?crid=3AXYO8A467OAG&keywords=extreme+ownership&qid=1557334794&s=books&sprefix=extrem%2Cstripbooks%2C121&sr=1-1)
+* [The New One Minute Manager (The One Minute Manager)(by Kenneth Blanchard and Spencer Johnson)](https://www.amazon.co.uk/New-One-Minute-Manager/dp/0008128049/ref=asc_df_0008128049/?tag=googshopuk-21&linkCode=df0&hvadid=310816411121&hvpos=1o2&hvnetw=g&hvrand=7416126036688225807&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045999&hvtargid=pla-465421882029&psc=1&th=1&psc=1)
 
 
 ## Internet of Things & Web of Things
@@ -54,6 +58,7 @@ List of books or podcasts that I have read or listened to which I would highly r
 
 ## Miscellaneous
 * [The Millionaire Next Door: The Surprising Secrets of America's Wealthy (Thomas J. Stanley & William D. Danko)](https://www.amazon.co.uk/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=CR39PTYX8B0ZBB8AS8Q7)
+* [Rich Dad, Poor Dad (by Robert T. Kiyosaki)](https://www.amazon.co.uk/Rich-Dad-Poor-Teach-Middle/dp/1612680194/ref=sr_1_1?crid=4MOUJSJNNTP4&keywords=rich+dad+poor+dad&qid=1557335076&s=books&sprefix=ric%2Cstripbooks%2C125&sr=1-1)
 
 
 
