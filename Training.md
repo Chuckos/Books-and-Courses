@@ -7,6 +7,7 @@ List of courses, achievemnts, training, conference that I have taken during my w
 * [AWS Certified SysOps Administrator - Associate Certification](https://s3.eu-west-2.amazonaws.com/charles-docs/AWS+Certified+SysOps+Administrator+-+Associate+certificate.pdf)
 
 #### April 2019
+* [Attend TestBash Brighton 2019 Conference](https://dojo.ministryoftesting.com/events/testbash-brighton-2019)
 
 #### March 2019
 * [AWS Certified Solutions Architect - Associate Certification](https://s3.eu-west-2.amazonaws.com/charles-docs/AWS+Certified+Solutions+Architect+-+Associate+certificate.pdf)
