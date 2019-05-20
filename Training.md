@@ -15,10 +15,6 @@ List of courses, achievemnts, training, conference that I have taken during my w
 #### March 2019
 * [AWS Certified Solutions Architect - Associate Certification](https://s3.eu-west-2.amazonaws.com/charles-docs/AWS+Certified+Solutions+Architect+-+Associate+certificate.pdf)
 
-#### February 2019
-
-#### Jan 2019
-
 ## 2018
 
 #### December 2018
