@@ -3,6 +3,16 @@ List of courses, achievemnts, training, conference that I have taken during my w
 
 ## 2019
 
+#### May 2019
+* [AWS Certified SysOps Administrator - Associate Certification](https://s3.eu-west-2.amazonaws.com/charles-docs/AWS+Certified+SysOps+Administrator+-+Associate+certificate.pdf)
+
+#### April 2019
+
+#### March 2019
+* [AWS Certified Solutions Architect - Associate Certification](https://s3.eu-west-2.amazonaws.com/charles-docs/AWS+Certified+Solutions+Architect+-+Associate+certificate.pdf)
+
+#### February 2019
+
 #### Jan 2019
 
 ## 2018
