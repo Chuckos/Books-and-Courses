@@ -8,6 +8,9 @@ List of courses, achievemnts, training, conference that I have taken during my w
 
 #### April 2019
 * [Attend TestBash Brighton 2019 Conference](https://dojo.ministryoftesting.com/events/testbash-brighton-2019)
+* [Training Workshop: Clean Coding Practices for Test Automation (by Angie Jones).](https://dojo.ministryoftesting.com/events/testbash-brighton-2019)
+* [Training Workshop: Zen and the Art of Test Maintenance (by Gil Zilberfeld).](https://dojo.ministryoftesting.com/events/testbash-brighton-2019)
+
 
 #### March 2019
 * [AWS Certified Solutions Architect - Associate Certification](https://s3.eu-west-2.amazonaws.com/charles-docs/AWS+Certified+Solutions+Architect+-+Associate+certificate.pdf)
