@@ -54,6 +54,8 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [General Systems Thinking (Gerald M. Weinberg)](https://leanpub.com/generalsystemsthinking)
 * [Podcast: Revisionist History (Malcolm Gladwell)](http://revisionisthistory.com/)
 * [Nudge: Improving Decisions About Health, Wealth and Happiness (Richard H Thaler & Cass R Sunstein)](https://www.amazon.co.uk/Nudge-Improving-Decisions-Health-Happiness/dp/0141040017/ref=sr_1_1?crid=VE51N7JMKUQA&keywords=nudge&qid=1557335682&s=books&sprefix=nudge%2Cstripbooks%2C122&sr=1-1)
+* [Podcast: The Joe Rogan Experience (Joe Rogan)](http://podcasts.joerogan.net/)
+
 
 
 ## Data 
