@@ -7,7 +7,7 @@ List of courses, achievemnts, training, conference that I have taken during my w
 * [AWS Certified SysOps Administrator - Associate Certification](https://s3.eu-west-2.amazonaws.com/charles-docs/AWS+Certified+SysOps+Administrator+-+Associate+certificate.pdf)
 
 #### April 2019
-* [Attend TestBash Brighton 2019 Conference](https://dojo.ministryoftesting.com/events/testbash-brighton-2019)
+* [Attended TestBash Brighton 2019 Conference](https://dojo.ministryoftesting.com/events/testbash-brighton-2019)
 * [Training Workshop: Clean Coding Practices for Test Automation (by Angie Jones).](https://dojo.ministryoftesting.com/events/testbash-brighton-2019)
 * [Training Workshop: Zen and the Art of Test Maintenance (by Gil Zilberfeld).](https://dojo.ministryoftesting.com/events/testbash-brighton-2019)
 
@@ -21,7 +21,7 @@ List of courses, achievemnts, training, conference that I have taken during my w
 * [AWS Certified Developer - Associate Certification](https://s3.eu-west-2.amazonaws.com/charles-docs/AWS+Certified+Developer+-+Associate+certificate.pdf)
 
 #### March 2018
-* [Attend TestBash Brighton 2018 Conference](https://dojo.ministryoftesting.com/events/testbash-brighton-2018)
+* [Attended TestBash Brighton 2018 Conference](https://dojo.ministryoftesting.com/events/testbash-brighton-2018)
 * [Training Workshop: Web Application Security: A Hands-on Testing Challenge (by Dan Billing).](https://dojo.ministryoftesting.com/events/testbash-brighton-2018)
 * [Training Workshop: Life's a Riot with Stubs, Fakes, Spies and Mocks (by Christopher Chant & Ash Winter).](https://dojo.ministryoftesting.com/events/testbash-brighton-2018)
 
