@@ -28,6 +28,7 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [Never Split the Difference: Negotiating as if Your Life Depended on It (Chris Voss & Tahl Raz)](https://www.amazon.co.uk/gp/product/B018FHCPDO/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)
 * [Can't Hurt Me: Master Your Mind and Defy the Odds (by David Goggins)](https://www.amazon.co.uk/Cant-Hurt-Me-Master-Your/dp/1544512279/ref=sr_1_1?crid=35B8T1LIEBH9S&keywords=you+cant+hurt+me+by+david+goggins&qid=1557335157&s=books&sprefix=you+can%27t+hur%2Cstripbooks%2C126&sr=1-1)
 * [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life (by Mark Manson)](https://www.amazon.co.uk/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=sr_1_1?crid=1CMGGRT9JIYHX&keywords=the+subtle+art+of+not+giving+a+fck&qid=1557335227&s=books&sprefix=the+sub%2Cstripbooks%2C125&sr=1-1)
+* [The 50th Law (The Robert Greene Collection) (by 50 Cent and Robert Greene)](https://www.amazon.co.uk/50th-Law-Robert-Greene-Collection/dp/1846680794)
 
 ## Leadership, Management & Organisational Culture
 * [The Mentor Leader (Tony Dungy)](https://www.amazon.co.uk/d/Books/Mentor-Leader-Various/141433804X/ref=sr_1_1?s=books&ie=UTF8&qid=1485777276&sr=1-1&keywords=the+mentor+leader)
