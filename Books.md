@@ -14,6 +14,7 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [Lessons Learned in Software Testing (Cem Kaner, James Bach & Bret Pettichord)](https://www.amazon.co.uk/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124)
 * [The Devops Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations (by Gene Kim, Patrick Debois, John Willis)](https://www.amazon.co.uk/Devops-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 * [Podcast: AB Testing (Brent Jensen and Alan Page)](https://testingpodcast.com/category/ab-testing/)
+* [Leading Quality: How Great Leaders Deliver High Quality Software and Accelerate Growth (Ronald Cummings-John and Owais Peer)](https://www.amazon.co.uk/Leading-Quality-High-Quality-Software-Accelerate-ebook/dp/B07VWC6GLX/ref=sr_1_1?crid=14DVIUK3F2839&keywords=leading+quality&qid=1568754734&s=books&sprefix=leading+quali%2Cstripbooks%2C132&sr=1-1)
 
 
 ## Personal Development
