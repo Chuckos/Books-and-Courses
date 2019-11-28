@@ -4,7 +4,7 @@ List of courses, achievemnts, training, conference that I have taken during my w
 ## 2019
 
 #### July 2019
-*[HashiCorp Terraform - Learn about provisioning infrastructure with terraform](https://learn.hashicorp.com/terraform)
+* [HashiCorp Terraform - Learn about provisioning infrastructure with terraform](https://learn.hashicorp.com/terraform)
 
 #### May 2019
 * [AWS Certified SysOps Administrator - Associate Certification](https://s3.eu-west-2.amazonaws.com/charles-docs/AWS+Certified+SysOps+Administrator+-+Associate+certificate.pdf)
