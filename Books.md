@@ -31,7 +31,7 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life (by Mark Manson)](https://www.amazon.co.uk/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=sr_1_1?crid=1CMGGRT9JIYHX&keywords=the+subtle+art+of+not+giving+a+fck&qid=1557335227&s=books&sprefix=the+sub%2Cstripbooks%2C125&sr=1-1)
 * [The 50th Law (The Robert Greene Collection) (by 50 Cent and Robert Greene)](https://www.amazon.co.uk/50th-Law-Robert-Greene-Collection/dp/1846680794)
 * [The 48 Laws Of Power (The Robert Greene Collection) (by Robert Greene)](https://www.amazon.co.uk/Laws-Power-Robert-Greene-Collection/dp/1861972784/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=XYPE38AAGVG73QY89RNY)
-*[Black Privilege: Opportunity Comes to Those Who Create It (by Charlamagne Tha God)](https://www.amazon.co.uk/Black-Privilege-Opportunity-Comes-Create/dp/1501145304/ref=sr_1_fkmr0_2?keywords=Charlamange+da+god+-+Black+Pravilage&qid=1577726271&sr=8-2-fkmr0)
+* [Black Privilege: Opportunity Comes to Those Who Create It (by Charlamagne Tha God)](https://www.amazon.co.uk/Black-Privilege-Opportunity-Comes-Create/dp/1501145304/ref=sr_1_fkmr0_2?keywords=Charlamange+da+god+-+Black+Pravilage&qid=1577726271&sr=8-2-fkmr0)
 
 ## Leadership, Management & Organisational Culture
 * [The Mentor Leader (Tony Dungy)](https://www.amazon.co.uk/d/Books/Mentor-Leader-Various/141433804X/ref=sr_1_1?s=books&ie=UTF8&qid=1485777276&sr=1-1&keywords=the+mentor+leader)
