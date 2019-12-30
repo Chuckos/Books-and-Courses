@@ -47,6 +47,7 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [Extreme Ownership - How U.S. Navy SEALS LEAD and WIN (By Jocko Willink & Leif Babin)](https://www.amazon.co.uk/Extreme-Ownership-Jocko-Willink/dp/1250183863/ref=sr_1_1?crid=3AXYO8A467OAG&keywords=extreme+ownership&qid=1557334794&s=books&sprefix=extrem%2Cstripbooks%2C121&sr=1-1)
 * [The New One Minute Manager (The One Minute Manager)(by Kenneth Blanchard and Spencer Johnson)](https://www.amazon.co.uk/New-One-Minute-Manager/dp/0008128049/ref=asc_df_0008128049/?tag=googshopuk-21&linkCode=df0&hvadid=310816411121&hvpos=1o2&hvnetw=g&hvrand=7416126036688225807&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045999&hvtargid=pla-465421882029&psc=1&th=1&psc=1)
 * [The Phoenix Project: A Novel about It, Devops, and Helping Your Business Win (by Gene Kim and Kevin Behr)](https://www.amazon.co.uk/Phoenix-Project-Devops-Helping-Business/dp/1942788290/ref=sr_1_1?keywords=The+Phoenix+Project&qid=1577726105&sr=8-1)
+* [Accelerate: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations(by Dr. Nicole Forsgren, Jez Humble)](https://www.amazon.co.uk/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=sr_1_1?crid=23FU1ENGZ8MRI&keywords=accelerate&qid=1577726836&sprefix=acclerate%2Caps%2C180&sr=8-1)
 
 
 ## Internet of Things & Web of Things
