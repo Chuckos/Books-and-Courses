@@ -16,24 +16,6 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [Podcast: AB Testing (Brent Jensen and Alan Page)](https://testingpodcast.com/category/ab-testing/)
 * [Leading Quality: How Great Leaders Deliver High Quality Software and Accelerate Growth (Ronald Cummings-John and Owais Peer)](https://www.amazon.co.uk/Leading-Quality-High-Quality-Software-Accelerate-ebook/dp/B07VWC6GLX/ref=sr_1_1?crid=14DVIUK3F2839&keywords=leading+quality&qid=1568754734&s=books&sprefix=leading+quali%2Cstripbooks%2C132&sr=1-1)
 
-
-## Personal Development
-* [The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin)](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=sr_1_1?s=books&ie=UTF8&qid=1485777161&sr=1-1&keywords=the+clean+coder)
-* [The Secrets of Consulting: (Gerald Weinberg)](https://www.amazon.co.uk/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
-* [Deep Work: Rules for Focused Success in a Distracted World: (Cal Newport)](http://calnewport.com/books/deep-work/)
-* [How to Win Friends & Influence People (Dale Carnegie)](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/)
-* [Influence: The Psychology of Persuasion: (Robert B. Cialdini)](https://www.amazon.co.uk/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/)
-* [Secrets of a Buccaneer-Scholar: How Self-Education and the Pursuit of Passion can Lead to a Lifetime of Success (James Back)](https://www.amazon.co.uk/Secrets-Buccaneer-Scholar-Self-Education-Pursuit-Lifetime/dp/1847375359)
-* [Getting to Yes: Negotiating an agreement without giving in (Roger Fisher, William Ury)
-](https://www.amazon.co.uk/gp/product/B008YUNDJS/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)
-* [Never Split the Difference: Negotiating as if Your Life Depended on It (Chris Voss & Tahl Raz)](https://www.amazon.co.uk/gp/product/B018FHCPDO/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)
-* [Can't Hurt Me: Master Your Mind and Defy the Odds (by David Goggins)](https://www.amazon.co.uk/Cant-Hurt-Me-Master-Your/dp/1544512279/ref=sr_1_1?crid=35B8T1LIEBH9S&keywords=you+cant+hurt+me+by+david+goggins&qid=1557335157&s=books&sprefix=you+can%27t+hur%2Cstripbooks%2C126&sr=1-1)
-* [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life (by Mark Manson)](https://www.amazon.co.uk/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=sr_1_1?crid=1CMGGRT9JIYHX&keywords=the+subtle+art+of+not+giving+a+fck&qid=1557335227&s=books&sprefix=the+sub%2Cstripbooks%2C125&sr=1-1)
-* [The 50th Law (The Robert Greene Collection) (by 50 Cent and Robert Greene)](https://www.amazon.co.uk/50th-Law-Robert-Greene-Collection/dp/1846680794)
-* [The 48 Laws Of Power (The Robert Greene Collection) (by Robert Greene)](https://www.amazon.co.uk/Laws-Power-Robert-Greene-Collection/dp/1861972784/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=XYPE38AAGVG73QY89RNY)
-* [Black Privilege: Opportunity Comes to Those Who Create It (by Charlamagne Tha God)](https://www.amazon.co.uk/Black-Privilege-Opportunity-Comes-Create/dp/1501145304/ref=sr_1_fkmr0_2?keywords=Charlamange+da+god+-+Black+Pravilage&qid=1577726271&sr=8-2-fkmr0)
-* [The 7 Habits of Highly Effective People (by Stephen R. Covey)](https://www.amazon.co.uk/Habits-Highly-Effective-People/dp/0684858398/ref=sr_1_1?keywords=7+Habits+of+Effective+People&qid=1577726585&sr=8-1)
-
 ## Leadership, Management & Organisational Culture
 * [The Mentor Leader (Tony Dungy)](https://www.amazon.co.uk/d/Books/Mentor-Leader-Various/141433804X/ref=sr_1_1?s=books&ie=UTF8&qid=1485777276&sr=1-1&keywords=the+mentor+leader)
 * [Who Says Elephants Can't Dance?: How I Turned Around IBM (Louis V. Gerstner Jr)](https://www.amazon.co.uk/d/Books/Who-Says-Elephants-Cant-Dance-Turned-Around/0007170874/ref=sr_1_1?s=books&ie=UTF8&qid=1485777369&sr=1-1&keywords=who+says+elephants+can%27t+dance)
@@ -48,7 +30,25 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [The New One Minute Manager (The One Minute Manager)(by Kenneth Blanchard and Spencer Johnson)](https://www.amazon.co.uk/New-One-Minute-Manager/dp/0008128049/ref=asc_df_0008128049/?tag=googshopuk-21&linkCode=df0&hvadid=310816411121&hvpos=1o2&hvnetw=g&hvrand=7416126036688225807&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045999&hvtargid=pla-465421882029&psc=1&th=1&psc=1)
 * [The Phoenix Project: A Novel about It, Devops, and Helping Your Business Win (by Gene Kim and Kevin Behr)](https://www.amazon.co.uk/Phoenix-Project-Devops-Helping-Business/dp/1942788290/ref=sr_1_1?keywords=The+Phoenix+Project&qid=1577726105&sr=8-1)
 * [Accelerate: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations(by Dr. Nicole Forsgren, Jez Humble)](https://www.amazon.co.uk/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=sr_1_1?crid=23FU1ENGZ8MRI&keywords=accelerate&qid=1577726836&sprefix=acclerate%2Caps%2C180&sr=8-1)
+* [The Secrets of Consulting: (Gerald Weinberg)](https://www.amazon.co.uk/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
+* [Deep Work: Rules for Focused Success in a Distracted World: (Cal Newport)](http://calnewport.com/books/deep-work/)
+* [Getting to Yes: Negotiating an agreement without giving in (Roger Fisher, William Ury)
+](https://www.amazon.co.uk/gp/product/B008YUNDJS/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)
+* [Never Split the Difference: Negotiating as if Your Life Depended on It (Chris Voss & Tahl Raz)](https://www.amazon.co.uk/gp/product/B018FHCPDO/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)
 
+## Personal Development
+* [The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin)](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=sr_1_1?s=books&ie=UTF8&qid=1485777161&sr=1-1&keywords=the+clean+coder)
+* [How to Win Friends & Influence People (Dale Carnegie)](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/)
+* [Influence: The Psychology of Persuasion: (Robert B. Cialdini)](https://www.amazon.co.uk/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/)
+* [Secrets of a Buccaneer-Scholar: How Self-Education and the Pursuit of Passion can Lead to a Lifetime of Success (James Back)](https://www.amazon.co.uk/Secrets-Buccaneer-Scholar-Self-Education-Pursuit-Lifetime/dp/1847375359)
+* [Can't Hurt Me: Master Your Mind and Defy the Odds (by David Goggins)](https://www.amazon.co.uk/Cant-Hurt-Me-Master-Your/dp/1544512279/ref=sr_1_1?crid=35B8T1LIEBH9S&keywords=you+cant+hurt+me+by+david+goggins&qid=1557335157&s=books&sprefix=you+can%27t+hur%2Cstripbooks%2C126&sr=1-1)
+* [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life (by Mark Manson)](https://www.amazon.co.uk/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=sr_1_1?crid=1CMGGRT9JIYHX&keywords=the+subtle+art+of+not+giving+a+fck&qid=1557335227&s=books&sprefix=the+sub%2Cstripbooks%2C125&sr=1-1)
+* [The 50th Law (The Robert Greene Collection) (by 50 Cent and Robert Greene)](https://www.amazon.co.uk/50th-Law-Robert-Greene-Collection/dp/1846680794)
+* [The 48 Laws Of Power (The Robert Greene Collection) (by Robert Greene)](https://www.amazon.co.uk/Laws-Power-Robert-Greene-Collection/dp/1861972784/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=XYPE38AAGVG73QY89RNY)
+* [Black Privilege: Opportunity Comes to Those Who Create It (by Charlamagne Tha God)](https://www.amazon.co.uk/Black-Privilege-Opportunity-Comes-Create/dp/1501145304/ref=sr_1_fkmr0_2?keywords=Charlamange+da+god+-+Black+Pravilage&qid=1577726271&sr=8-2-fkmr0)
+* [The 7 Habits of Highly Effective People (by Stephen R. Covey)](https://www.amazon.co.uk/Habits-Highly-Effective-People/dp/0684858398/ref=sr_1_1?keywords=7+Habits+of+Effective+People&qid=1577726585&sr=8-1)
+* [The Seven Spiritual Laws of Success:  A Practical Guide to the Fulfillment of Your Dreams (by Dr Deepak Chopra)](https://www.amazon.co.uk/Seven-Spiritual-Laws-Success-Fulfillment/dp/059304083X)
+* [Man's Search For Meaning: The classic tribute to hope from the Holocaust (by Viktor E Frankl )](https://www.amazon.co.uk/Mans-Search-Meaning-classic-Holocaust/dp/1844132390/)
 
 ## Internet of Things & Web of Things
 * [Building the Web of Thngs: (Dominique D. Guinard)](https://www.manning.com/books/building-the-web-of-things)
