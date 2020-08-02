@@ -1,6 +1,11 @@
 # Training, Courses, Achievements & Conferences
 List of courses, achievemnts, training, conference that I have taken during my working career.
 
+## 2020
+
+#### July 2020
+* [Mongo University - M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about)
+
 ## 2019
 
 #### July 2019
