@@ -49,6 +49,9 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [The 7 Habits of Highly Effective People (by Stephen R. Covey)](https://www.amazon.co.uk/Habits-Highly-Effective-People/dp/0684858398/ref=sr_1_1?keywords=7+Habits+of+Effective+People&qid=1577726585&sr=8-1)
 * [The Seven Spiritual Laws of Success:  A Practical Guide to the Fulfillment of Your Dreams (by Dr Deepak Chopra)](https://www.amazon.co.uk/Seven-Spiritual-Laws-Success-Fulfillment/dp/059304083X)
 * [Man's Search For Meaning: The classic tribute to hope from the Holocaust (by Viktor E Frankl )](https://www.amazon.co.uk/Mans-Search-Meaning-classic-Holocaust/dp/1844132390/)
+* [The Algebra of Happiness: The pursuit of success, love and what it all means (By Scott Galloway)](https://www.amazon.co.uk/Algebra-Happiness-pursuit-success-means/dp/1787632474)
+* [The Decision: Overcoming Today's BS for Tomorrow's Success (By Kevin Hart)](https://www.amazon.co.uk/Decision-Overcoming-Todays-Tomorrows-Success/dp/B084GYPX3W)
+
 
 ## Internet of Things & Web of Things
 * [Building the Web of Thngs: (Dominique D. Guinard)](https://www.manning.com/books/building-the-web-of-things)
