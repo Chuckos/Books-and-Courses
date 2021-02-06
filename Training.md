@@ -1,6 +1,10 @@
 # Training, Courses, Achievements & Conferences
 List of courses, achievemnts, training, conference that I have taken during my working career.
 
+## 2021
+#### February 2021
+* [Looker University - Courses Completed: 1. Getting Started with Looker, 2. Building Reports in Looker, 3. Getting Started with LookML](https://training.looker.com/)
+
 ## 2020
 
 #### July 2020
