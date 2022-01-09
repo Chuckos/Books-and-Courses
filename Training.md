@@ -1,7 +1,16 @@
 # Training, Courses, Achievements & Conferences
 List of courses, achievemnts, training, conference that I have taken during my working career.
 
+## 2022
+
 ## 2021
+
+#### December 2021
+* [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/bed70484-4e0d-460a-9a77-628cb76176d0/public_url)
+
+#### August 2021
+* [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/30a58344-f849-496c-a16b-b59bf8e0b72d/public_url)
+
 #### February 2021
 * [Looker University - Courses Completed: 1. Getting Started with Looker, 2. Building Reports in Looker, 3. Getting Started with LookML](https://training.looker.com/)
 
