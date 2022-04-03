@@ -51,8 +51,8 @@ List of books or podcasts that I have read or listened to which I would highly r
 * [Man's Search For Meaning: The classic tribute to hope from the Holocaust (by Viktor E Frankl )](https://www.amazon.co.uk/Mans-Search-Meaning-classic-Holocaust/dp/1844132390/)
 * [The Algebra of Happiness: The pursuit of success, love and what it all means (By Scott Galloway)](https://www.amazon.co.uk/Algebra-Happiness-pursuit-success-means/dp/1787632474)
 * [The Decision: Overcoming Today's BS for Tomorrow's Success (By Kevin Hart)](https://www.amazon.co.uk/Decision-Overcoming-Todays-Tomorrows-Success/dp/B084GYPX3W)
-* [Mindset - Updated Edition: Changing The Way You think To Fulfil Your Potential](By Dr Carol Dweck)(https://www.amazon.co.uk/Mindset-Updated-Changing-Fulfil-Potential/dp/147213995X)
-* [Solve for Happy](By Mo Gawdat)(https://www.amazon.co.uk/Solve-Happy-Engineer-Your-Path/dp/1509809953/)
+* [Mindset - Updated Edition: Changing The Way You think To Fulfil Your Potential(By Dr Carol Dweck)](https://www.amazon.co.uk/Mindset-Updated-Changing-Fulfil-Potential/dp/147213995X)
+* [Solve for Happy(By Mo Gawdat)](https://www.amazon.co.uk/Solve-Happy-Engineer-Your-Path/dp/1509809953/)
 
 
 
