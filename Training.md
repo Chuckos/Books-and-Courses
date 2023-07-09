@@ -1,18 +1,18 @@
 # Training, Courses, Achievements & Conferences
-List of courses, achievemnts, training, conference that I have taken during my working career.
+List of courses, achievements, training, and conferencse that I have taken during my working career.
 
 ## 2023
 
 #### June 2023
-* [Zephyr Scale User Guide - Test Management Tool](https://academy.smartbear.com/enrollments/171491996)
+* [SmartBear Academy - Zephyr Scale User Guide - Test Management Tool](https://academy.smartbear.com/enrollments/171491996)
 
 #### March 2023
-* [Setting a Foundation for Successful Test Automation (By Angie Jones)](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
+* [Test Automation University - Setting a Foundation for Successful Test Automation (By Angie Jones)](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
 
 ## 2022
 
-### October 2022
-* [Introduction To Modern Testing (By Alan Page)](https://www.ministryoftesting.com/courses/introduction-to-modern-testing-alan-page?s_id=15242288)
+#### October 2022
+* [Ministry of Testing - Introduction To Modern Testing (By Alan Page)](https://www.ministryoftesting.com/courses/introduction-to-modern-testing-alan-page?s_id=15242288)
 
 ## 2021
 
