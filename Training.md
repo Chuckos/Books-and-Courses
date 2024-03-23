@@ -1,6 +1,13 @@
 # Training, Courses, Achievements & Conferences
 List of courses, achievements, training, and conferencse that I have taken during my working career.
 
+## 2024
+
+#### February 2024
+* [Introduction to Generative AI (By Google)](https://www.cloudskillsboost.google/paths/118/course_templates/536)
+* [Introduction to Large Language Models (By Google)](https://www.cloudskillsboost.google/paths/118/course_templates/539)
+* [Introduction to Responsible AI (By Google)](https://www.cloudskillsboost.google/paths/118/course_templates/554)
+
 ## 2023
 
 #### June 2023
