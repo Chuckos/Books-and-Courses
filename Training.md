@@ -3,6 +3,9 @@ List of courses, achievements, training, and conferencse that I have taken durin
 
 ## 2024
 
+#### April 2024
+* [Prompt Engineering for ChatGPT (By Vanderbildt University)](https://www.coursera.org/learn/prompt-engineering)
+
 #### February 2024
 * [Introduction to Generative AI (By Google)](https://www.cloudskillsboost.google/paths/118/course_templates/536)
 * [Introduction to Large Language Models (By Google)](https://www.cloudskillsboost.google/paths/118/course_templates/539)
