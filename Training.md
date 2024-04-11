@@ -4,6 +4,7 @@ List of courses, achievements, training, and conferencse that I have taken durin
 ## 2024
 
 #### April 2024
+* [Web Element Locator Strategies (By Andrew Knight)](https://testautomationu.applitools.com/web-element-locator-strategies/)
 * [Prompt Engineering for ChatGPT (By Vanderbildt University)](https://www.coursera.org/learn/prompt-engineering)
 
 #### February 2024
