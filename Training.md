@@ -1,6 +1,22 @@
 # Training, Courses, Achievements & Conferences
 List of courses, achievements, training, and conferencse that I have taken during my working career.
 
+## 2025
+
+#### May 2025
+* [Pre Security (by TryHackMe)](https://tryhackme.com/path/outline/presecurity)
+
+#### April 2025
+* [CompTIA Security+ Certification (By CompTIA)](https://www.comptia.org/certifications/security)
+
+#### March 2025
+* [Vulnerability Management Foundation (By Qualys)](https://www.qualys.com/training/course/vulnerability-management-foundation/)
+
+#### February 2025
+* [Cyber Security Governance, Risk, and Compliance (GRC) Mastery (By GRC Mastery)](https://www.grcmastery.com/)
+* [Google Cybersecurity Professional Certificate (By Google)](https://www.coursera.org/professional-certificates/google-cybersecurity)
+
+
 ## 2024
 
 #### April 2024
