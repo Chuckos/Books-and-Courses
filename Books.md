@@ -64,7 +64,7 @@ The resources are organized by topic to help you find materials most relevant to
 *Personal effectiveness, communication skills, influence, psychology, and decision-making frameworks for professional and personal growth.*
 
 * [Deep Work (Cal Newport)](http://calnewport.com/books/deep-work/)
-* [How to Win Friends & Influence People (Dale Carnegie)](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/)
+* [How to Win Friends & Influence People (Dale Carnegie)](https://www.amazon.co.uk/How-Win-Friends-Influence-People/dp/0671027034/)
 * [Influence: The Psychology of Persuasion (Robert B. Cialdini)](https://www.amazon.co.uk/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/)
 * [The 7 Habits of Highly Effective People (Stephen R. Covey)](https://www.amazon.co.uk/Habits-Highly-Effective-People/dp/0684858398/)
 * [The Art of Communicating (Thich Nhat Hanh)](https://www.amazon.co.uk/Art-Communicating-Thich-Nhat-Hanh/dp/1846044006)
@@ -83,9 +83,9 @@ The resources are organized by topic to help you find materials most relevant to
 ## 🏢 Business & Strategy
 *Business strategy, organizational development, change management, and entrepreneurial thinking for driving business outcomes.*
 
-* [The Lean Startup (Eric Ries)](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/)
-* [The Reengineering Alternative (William E. Schneider)](https://www.amazon.com/Reengineering-Alternative-William-Schneider/dp/0071359818)
-* [Switch: How to Change Things When Change Is Hard (Chip Heath & Dan Heath)](https://www.amazon.com/gp/product/0385528752)
+* [The Lean Startup (Eric Ries)](https://www.amazon.co.uk/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/)
+* [The Reengineering Alternative (William E. Schneider)](https://www.amazon.co.uk/Reengineering-Alternative-William-Schneider/dp/0071359818)
+* [Switch: How to Change Things When Change Is Hard (Chip Heath & Dan Heath)](https://www.amazon.co.uk/gp/product/0385528752)
 * [Building a StoryBrand (Donald Miller)](https://www.amazon.co.uk/Building-StoryBrand-Miller-Donald/dp/1400201837)
 * [Drive (Daniel H. Pink)](https://www.amazon.co.uk/Drive-Daniel-H-Pink/dp/184767769X/)
 * [The Five Dysfunctions of a Team (Patrick M. Lencioni)](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756)
@@ -105,8 +105,8 @@ The resources are organized by topic to help you find materials most relevant to
 *Thought-provoking podcasts covering testing, history, and diverse perspectives to expand your thinking.*
 
 * [AB Testing (Brent Jensen and Alan Page)](https://testingpodcast.com/category/ab-testing/)
-* [Revisionist History (Malcolm Gladwell)](http://revisionisthistory.com/)
-* [The Joe Rogan Experience (Joe Rogan)](http://podcasts.joerogan.net/)
+* [Revisionist History (Malcolm Gladwell)](https://www.pushkin.fm/podcasts/revisionist-history)
+* [The Joe Rogan Experience (Joe Rogan)](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk)
 
 
 
