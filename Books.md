@@ -4,6 +4,14 @@ This is a curated collection of books and podcasts that have significantly influ
 
 The resources are organized by topic to help you find materials most relevant to your current learning goals. Every book and podcast listed here has provided valuable insights, practical knowledge, or new perspectives that I've successfully applied in my professional life.
 
+## 🆕 Recently Added
+
+*Latest additions to the collection - demonstrating continuous learning and staying current with industry developments.*
+
+- **The Art of Communicating** *(Thich Nhat Hanh)* - January 2025
+- **Contract Testing in Action** *(Marie Cruz & Lewis Prescott)* - 2024
+- **BDD in Action, Second Edition** *(John Ferguson Smart & Jan Molak)* - 2024
+
 ## 📋 Table of Contents
 
 - [📊 Software Quality & Testing](#software-quality--testing) (10 books)
@@ -19,7 +27,7 @@ The resources are organized by topic to help you find materials most relevant to
 ---
 
 ## 📊 Software Quality & Testing
-*Testing methodologies, automation strategies, and quality assurance practices for building robust software systems.*
+*Testing methodologies, automation strategies, and quality assurance practices for building robust software systems. (10 books)*
 
 * [Agile Testing (Lisa Crispin & J Gregory)](https://www.amazon.co.uk/Agile-Testing-Practical-Addison-Wesley-Signature/dp/0321534468/)
 * [More Agile Testing (Lisa Crispin & J Gregory)](https://www.amazon.co.uk/More-Agile-Testing-Addison-Wesley-Signature/dp/0321967054/)
@@ -30,15 +38,17 @@ The resources are organized by topic to help you find materials most relevant to
 * [Experience of Test Automation (Dorothy Graham)](https://www.amazon.co.uk/d/Books/Experiences-Test-Automation-Case-Studies-Software/0321754069)
 * [Lessons Learned in Software Testing (Cem Kaner, James Bach & Bret Pettichord)](https://www.amazon.co.uk/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124)
 * [BDD in Action, Second Edition (John Ferguson Smart & Jan Molak)](https://www.amazon.co.uk/BDD-Action-Second-Behavior-Driven-Development-ebook/dp/B0C1ZZVSL5)
-* [Contract Testing in Action With Pact, PactFlow, and GitHub Actions (Marie Cruz and Lewis Prescott)](https://www.manning.com/books/contract-testing-in-action)
+* [Contract Testing in Action With Pact, PactFlow, and GitHub Actions (Marie Cruz & Lewis Prescott)](https://www.manning.com/books/contract-testing-in-action)
+
+[↑ Back to Top](#📋-table-of-contents)
 
 ## 🛠️ Engineering & Technical Skills
-*Technical practices, software architecture, DevOps methodologies, and the skills needed to build and maintain modern software systems.*
+*Technical practices, software architecture, DevOps methodologies, and the skills needed to build and maintain modern software systems. (12 books)*
 
 * [The Clean Coder (Robert C. Martin)](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/)
 * [Building the Web of Things (Dominique D. Guinard)](https://www.manning.com/books/building-the-web-of-things)
 * [The DevOps Handbook (Gene Kim, Patrick Debois, John Willis)](https://www.amazon.co.uk/Devops-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
-* [The Phoenix Project (Gene Kim and Kevin Behr)](https://www.amazon.co.uk/Phoenix-Project-Devops-Helping-Business/dp/1942788290/)
+* [The Phoenix Project (Gene Kim & Kevin Behr)](https://www.amazon.co.uk/Phoenix-Project-Devops-Helping-Business/dp/1942788290/)
 * [Observability Engineering (Charity Majors, Liz Fong-Jones, George Miranda)](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
 * [Learning OpenTelemetry (Ted Young, Austin Parker)](https://www.oreilly.com/library/view/learning-opentelemetry/9781098147174/)
 * [Site Reliability Engineering (Betsy Beyer, Chris Jones, et al.)](https://www.amazon.co.uk/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
@@ -48,8 +58,10 @@ The resources are organized by topic to help you find materials most relevant to
 * [The Manager's Path (Camille Fournier)](https://www.amazon.co.uk/Managers-Path-Leaders-Navigating-Growth/dp/B07SYBRMYS)
 * [The Secrets of Consulting (Gerald Weinberg)](https://www.amazon.co.uk/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
 
+[↑ Back to Top](#📋-table-of-contents)
+
 ## 👥 Leadership & Management
-*Leadership principles, team management strategies, and organizational skills for guiding teams and driving results.*
+*Leadership principles, team management strategies, and organizational skills for guiding teams and driving results. (8 books)*
 
 * [The Mentor Leader (Tony Dungy)](https://www.amazon.co.uk/d/Books/Mentor-Leader-Various/141433804X/)
 * [Who Says Elephants Can't Dance? (Louis V. Gerstner Jr)](https://www.amazon.co.uk/d/Books/Who-Says-Elephants-Cant-Dance-Turned-Around/0007170874/)
@@ -57,11 +69,13 @@ The resources are organized by topic to help you find materials most relevant to
 * [The Five Dysfunctions of a Team (Patrick M. Lencioni)](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756)
 * [The Starfish And The Spider (Ori Brafman And Rod A. Beckstrom)](https://www.amazon.co.uk/dp/B000S1LU3M/)
 * [Extreme Ownership (Jocko Willink & Leif Babin)](https://www.amazon.co.uk/Extreme-Ownership-Jocko-Willink/dp/1250183863/)
-* [The New One Minute Manager (Kenneth Blanchard and Spencer Johnson)](https://www.amazon.co.uk/New-One-Minute-Manager/dp/0008128049/)
-* [Leading Quality (Ronald Cummings-John and Owais Peer)](https://www.amazon.co.uk/Leading-Quality-High-Quality-Software-Accelerate-ebook/dp/B07VWC6GLX/)
+* [The New One Minute Manager (Kenneth Blanchard & Spencer Johnson)](https://www.amazon.co.uk/New-One-Minute-Manager/dp/0008128049/)
+* [Leading Quality (Ronald Cummings-John & Owais Peer)](https://www.amazon.co.uk/Leading-Quality-High-Quality-Software-Accelerate-ebook/dp/B07VWC6GLX/)
+
+[↑ Back to Top](#📋-table-of-contents)
 
 ## 🤝 Communication & Personal Development
-*Personal effectiveness, communication skills, influence, psychology, and decision-making frameworks for professional and personal growth.*
+*Personal effectiveness, communication skills, influence, psychology, and decision-making frameworks for professional and personal growth. (16 books)*
 
 * [Deep Work (Cal Newport)](http://calnewport.com/books/deep-work/)
 * [How to Win Friends & Influence People (Dale Carnegie)](https://www.amazon.co.uk/How-Win-Friends-Influence-People/dp/0671027034/)
@@ -80,8 +94,10 @@ The resources are organized by topic to help you find materials most relevant to
 * [Nudge (Richard H Thaler & Cass R Sunstein)](https://www.amazon.co.uk/Nudge-Improving-Decisions-Health-Happiness/dp/0141040017/)
 * [How to Measure Anything (Douglas W. Hubbard)](https://www.amazon.co.uk/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U/)
 
+[↑ Back to Top](#📋-table-of-contents)
+
 ## 🏢 Business & Strategy
-*Business strategy, organizational development, change management, and entrepreneurial thinking for driving business outcomes.*
+*Business strategy, organizational development, change management, and entrepreneurial thinking for driving business outcomes. (7 books)*
 
 * [The Lean Startup (Eric Ries)](https://www.amazon.co.uk/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/)
 * [The Reengineering Alternative (William E. Schneider)](https://www.amazon.co.uk/Reengineering-Alternative-William-Schneider/dp/0071359818)
@@ -91,8 +107,10 @@ The resources are organized by topic to help you find materials most relevant to
 * [The Five Dysfunctions of a Team (Patrick M. Lencioni)](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756)
 * [The Starfish And The Spider (Ori Brafman And Rod A. Beckstrom)](https://www.amazon.co.uk/dp/B000S1LU3M/)
 
+[↑ Back to Top](#📋-table-of-contents)
+
 ## 💰 Financial Literacy
-*Personal finance, wealth building, investment strategies, and financial decision-making for long-term financial success.*
+*Personal finance, wealth building, investment strategies, and financial decision-making for long-term financial success. (6 books)*
 
 * [The Millionaire Next Door (Thomas J. Stanley & William D. Danko)](https://www.amazon.co.uk/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/)
 * [Rich Dad, Poor Dad (Robert T. Kiyosaki)](https://www.amazon.co.uk/Rich-Dad-Poor-Teach-Middle/dp/1612680194/)
@@ -101,12 +119,16 @@ The resources are organized by topic to help you find materials most relevant to
 * [The Trading Game (Gary Stevenson)](https://www.amazon.co.uk/The-Trading-Game-A-Confession/dp/B0CJ9QWFY1)
 * [Seven Myths About Money (Rob Dix)](https://www.amazon.co.uk/Seven-Myths-About-Money-Financial/dp/B0DD9GQX2G)
 
-## 🎧 Recommended Podcasts
-*Thought-provoking podcasts covering testing, history, and diverse perspectives to expand your thinking.*
+[↑ Back to Top](#📋-table-of-contents)
 
-* [AB Testing (Brent Jensen and Alan Page)](https://testingpodcast.com/category/ab-testing/)
+## 🎧 Recommended Podcasts
+*Thought-provoking podcasts covering testing, history, and diverse perspectives to expand your thinking. (3 podcasts)*
+
+* [AB Testing (Brent Jensen & Alan Page)](https://testingpodcast.com/category/ab-testing/)
 * [Revisionist History (Malcolm Gladwell)](https://www.pushkin.fm/podcasts/revisionist-history)
 * [The Joe Rogan Experience (Joe Rogan)](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk)
+
+[↑ Back to Top](#📋-table-of-contents)
 
 
 
