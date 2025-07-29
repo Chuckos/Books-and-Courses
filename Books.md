@@ -64,6 +64,7 @@ The resources are organized by topic to help you find materials most relevant to
 * [How to Win Friends & Influence People (Dale Carnegie)](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/)
 * [Influence: The Psychology of Persuasion (Robert B. Cialdini)](https://www.amazon.co.uk/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/)
 * [The 7 Habits of Highly Effective People (Stephen R. Covey)](https://www.amazon.co.uk/Habits-Highly-Effective-People/dp/0684858398/)
+* [The Art of Communicating (Thich Nhat Hanh)](https://www.amazon.co.uk/Art-Communicating-Thich-Nhat-Hanh/dp/1846044006)
 * [Mindset (Dr Carol Dweck)](https://www.amazon.co.uk/Mindset-Updated-Fulfil-Potential/dp/147213995X)
 * [Can't Hurt Me (David Goggins)](https://www.amazon.co.uk/Cant-Hurt-Me-Master-Your/dp/1544512279/)
 * [Getting to Yes (Roger Fisher, William Ury)](https://www.amazon.co.uk/gp/product/B008YUNDJS/)
