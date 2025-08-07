@@ -7,26 +7,26 @@ List of courses, achievements, training, and conferences that I have taken durin
 * [Pre Security (by TryHackMe)](https://tryhackme.com/path/outline/presecurity)
 
 #### April 2025
-* [CompTIA Security+ Certification (By CompTIA)](https://www.comptia.org/certifications/security)
+* [CompTIA Security+ Certification (by CompTIA)](https://www.comptia.org/certifications/security)
 
 #### March 2025
-* [Vulnerability Management Foundation (By Qualys)](https://www.qualys.com/training/course/vulnerability-management-foundation/)
+* [Vulnerability Management Foundation (by Qualys)](https://www.qualys.com/training/course/vulnerability-management-foundation/)
 
 #### February 2025
-* [Cyber Security Governance, Risk, and Compliance (GRC) Mastery (By GRC Mastery)](https://www.grcmastery.com/)
-* [Google Cybersecurity Professional Certificate (By Google)](https://www.coursera.org/professional-certificates/google-cybersecurity)
+* [Cyber Security Governance, Risk, and Compliance (GRC) Mastery (by GRC Mastery)](https://www.grcmastery.com/)
+* [Google Cybersecurity Professional Certificate (by Google)](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
 
 ## 2024
 
 #### April 2024
-* [Web Element Locator Strategies (By Andrew Knight)](https://testautomationu.applitools.com/web-element-locator-strategies/)
-* [Prompt Engineering for ChatGPT (By Vanderbildt University)](https://www.coursera.org/learn/prompt-engineering)
+* [Web Element Locator Strategies (by Andrew Knight)](https://testautomationu.applitools.com/web-element-locator-strategies/)
+* [Prompt Engineering for ChatGPT (by Vanderbildt University)](https://www.coursera.org/learn/prompt-engineering)
 
 #### February 2024
-* [Introduction to Generative AI (By Google)](https://www.cloudskillsboost.google/paths/118/course_templates/536)
-* [Introduction to Large Language Models (By Google)](https://www.cloudskillsboost.google/paths/118/course_templates/539)
-* [Introduction to Responsible AI (By Google)](https://www.cloudskillsboost.google/paths/118/course_templates/554)
+* [Introduction to Generative AI (by Google)](https://www.cloudskillsboost.google/paths/118/course_templates/536)
+* [Introduction to Large Language Models (by Google)](https://www.cloudskillsboost.google/paths/118/course_templates/539)
+* [Introduction to Responsible AI (by Google)](https://www.cloudskillsboost.google/paths/118/course_templates/554)
 
 ## 2023
 
@@ -34,12 +34,12 @@ List of courses, achievements, training, and conferences that I have taken durin
 * [SmartBear Academy - Zephyr Scale User Guide - Test Management Tool](https://academy.smartbear.com/enrollments/171491996)
 
 #### March 2023
-* [Test Automation University - Setting a Foundation for Successful Test Automation (By Angie Jones)](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
+* [Test Automation University - Setting a Foundation for Successful Test Automation (by Angie Jones)](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
 
 ## 2022
 
 #### October 2022
-* [Ministry of Testing - Introduction To Modern Testing (By Alan Page)](https://www.ministryoftesting.com/courses/introduction-to-modern-testing-alan-page?s_id=15242288)
+* [Ministry of Testing - Introduction To Modern Testing (by Alan Page)](https://www.ministryoftesting.com/courses/introduction-to-modern-testing-alan-page?s_id=15242288)
 
 ## 2021
 
@@ -202,9 +202,8 @@ List of courses, achievements, training, and conferences that I have taken durin
 * Driving Accountability: Through Crucial Confrontations (Leadership Training).
 * Leading Virtually: Managing Complexity across the Globe (Leadership Training).
 
-
-
 ## 2007
+
 * Introduction & Intermediate level to using Quick Test Professional (Automation Training).
 * Managing Performance (Management Training).
 * General HR Policies and Procedures (Management Training).
