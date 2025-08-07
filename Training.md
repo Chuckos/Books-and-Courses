@@ -50,17 +50,17 @@ List of courses, achievements, training, and conferences that I have taken durin
 * [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/30a58344-f849-496c-a16b-b59bf8e0b72d/public_url)
 
 #### February 2021
-* [Looker University - Courses Completed: 1. Getting Started with Looker, 2. Building Reports in Looker, 3. Getting Started with LookML](https://training.looker.com/)
+* [Looker University - Courses Completed: 1. Getting Started with Looker, 2. Building Reports in Looker, 3. Getting Started with LookML](https://www.cloudskillsboost.google/)
 
 ## 2020
 
 #### July 2020
-* [Mongo University - M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about)
+* [Mongo University - M001: MongoDB Basics](https://learn.mongodb.com/catalog)
 
 ## 2019
 
 #### July 2019
-* [HashiCorp Terraform - Learn about provisioning infrastructure with terraform](https://learn.hashicorp.com/terraform)
+* [HashiCorp Terraform - Learn about provisioning infrastructure with terraform](https://developer.hashicorp.com/terraform/tutorials)
 
 #### May 2019
 * [AWS Certified SysOps Administrator - Associate Certification](https://s3.eu-west-2.amazonaws.com/charles-docs/AWS+Certified+SysOps+Administrator+-+Associate+certificate.pdf)
@@ -103,8 +103,8 @@ List of courses, achievements, training, and conferences that I have taken durin
 * [Basic Algorithm Scripting (freeCodeCamp.com)](https://github.com/Chuckos/Code-Camp-Projects/tree/master/Javascript-Challenges/Basic-Algorithm-Scripting)
 
 #### April 2017
-* [Basic JavaScript (freeCodeCamp.com)](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript)
-* [Object Oriented and Functional Programming (freeCodeCamp.com)](https://www.freecodecamp.com/map-aside#nested-collapseObjectOrientedandFunctionalProgramming)
+* [Basic JavaScript (freeCodeCamp.com)](https://www.freecodecamp.org/map-aside#nested-collapseBasicJavaScript)
+* [Object Oriented and Functional Programming (freeCodeCamp.com)](https://www.freecodecamp.org/map-aside#nested-collapseObjectOrientedandFunctionalProgramming)
 
 #### March 2017
 * [Attend TestBash Brighton 2017 Conference](https://dojo.ministryoftesting.com/events/testbash-brighton-2017)
@@ -115,9 +115,9 @@ List of courses, achievements, training, and conferences that I have taken durin
 * [Basic Front End Development Projects (freeCodeCamp.com)](https://github.com/Chuckos/Code-Camp-Projects/tree/master/Tribute-page)
 
 #### January 2017
-* [HTML5 and CSS (freeCodeCamp.com)](https://www.freecodecamp.com/map-aside#nested-HTML5andCSS)
-* [Responsive Design with Bootstrap (freeCodeCamp.com)](https://www.freecodecamp.com/map-aside#nested-collapseResponsiveDesignwithBootstrap)
-* [jQuery (freeCodeCamp.com)](https://www.freecodecamp.com/map-aside#nested-collapsejQuery)
+* [HTML5 and CSS (freeCodeCamp.com)](https://www.freecodecamp.org/map-aside#nested-HTML5andCSS)
+* [Responsive Design with Bootstrap (freeCodeCamp.com)](https://www.freecodecamp.org/map-aside#nested-collapseResponsiveDesignwithBootstrap)
+* [jQuery (freeCodeCamp.com)](https://www.freecodecamp.org/map-aside#nested-collapsejQuery)
 
 
 ## 2016
@@ -126,7 +126,7 @@ List of courses, achievements, training, and conferences that I have taken durin
 * [BBST Test Design Course](https://www.associationforsoftwaretesting.org/training-2/courses/test-design/)
 
 #### May 2016
-* [Javacript Road Trip Part 1,2,3 (codeschool.com)](https://www.codeschool.com/learn/javascript)
+* [Javacript Road Trip Part 1,2,3 (codeschool.com)](https://www.pluralsight.com/codeschool)
 
 #### January 2016
 * [Learn the Command Line (Codecademy.com)](https://www.codecademy.com/learn/learn-the-command-line)
