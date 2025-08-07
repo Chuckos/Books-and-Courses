@@ -97,7 +97,7 @@ List of courses, achievements, training, and conferences that I have taken durin
 * [JSON APIs and Ajax (freeCodeCamp.com)](https://www.freecodecamp.org/map-aside#nested-collapseJSONAPIsandAjax)
 
 #### July 2017
-* [New Relic Self-Guided Courses (New Relic University)](https://learn.newrelic.com/courses)
+* [New Relic Self-Guided Courses (New Relic University)](https://learn.newrelic.com/)
 
 #### May 2017
 * [Basic Algorithm Scripting (freeCodeCamp.com)](https://github.com/Chuckos/Code-Camp-Projects/tree/master/Javascript-Challenges/Basic-Algorithm-Scripting)
@@ -164,7 +164,7 @@ List of courses, achievements, training, and conferences that I have taken durin
 * [Creating an Automated Testing Framework with Selenium (Pluralsight.com)](https://app.pluralsight.com/library/courses/automated-testing-framework-selenium/table-of-contents)
 
 #### November 2013
-* [Technical Web Testing 101 (by Alan Richardson, udemy.com)](https://www.udemy.com/technical-web-testing-101/)
+* [Technical Web Testing 101 (by Alan Richardson, udemy.com)](https://www.udemy.com/courses/search/?q=alan%20richardson%20technical%20web%20testing)
 
 #### October 2013
 * [Web Security and the OWASP Top 10: The Big Picture - by Troy Hunt (pluralsight)](https://app.pluralsight.com/library/courses/web-security-owasp-top10-big-picture/table-of-contents)
@@ -194,7 +194,7 @@ List of courses, achievements, training, and conferences that I have taken durin
 
 ## 2009
 #### April 2009
-* [ISTQB Foundation Certificate in Software Testing](http://www.istqb.org/certification-path-root/foundation-level/foundation-level-content.html)
+* [ISTQB Foundation Certificate in Software Testing](https://istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/)
 
 ## 2008
 * Agile methodology training.
