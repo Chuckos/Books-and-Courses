@@ -1,5 +1,5 @@
 # Training, Courses, Achievements & Conferences
-List of courses, achievements, training, and conferencse that I have taken during my working career.
+List of courses, achievements, training, and conferences that I have taken during my working career.
 
 ## 2025
 
@@ -111,10 +111,10 @@ List of courses, achievements, training, and conferencse that I have taken durin
 * [Training Workshop: Talk About Testing by NOT Talking about Testing (by Keith Klain & Martin Hynie & Vernon Richards).](https://dojo.ministryoftesting.com/events/testbash-brighton-2017)
 * [Training Workshop: Web And Mobile Security - Attack Like A Black-Hat Hacker (by Santhosh Tuppad).](https://dojo.ministryoftesting.com/events/testbash-brighton-2017)
 
-#### Feb 2017:
+#### February 2017
 * [Basic Front End Development Projects (freeCodeCamp.com)](https://github.com/Chuckos/Code-Camp-Projects/tree/master/Tribute-page)
 
-#### Jan 2017:
+#### January 2017
 * [HTML5 and CSS (freeCodeCamp.com)](https://www.freecodecamp.com/map-aside#nested-HTML5andCSS)
 * [Responsive Design with Bootstrap (freeCodeCamp.com)](https://www.freecodecamp.com/map-aside#nested-collapseResponsiveDesignwithBootstrap)
 * [jQuery (freeCodeCamp.com)](https://www.freecodecamp.com/map-aside#nested-collapsejQuery)
@@ -153,24 +153,24 @@ List of courses, achievements, training, and conferencse that I have taken durin
 #### March 2014
 * [Learn Ruby (Codecademy.com)](https://www.codecademy.com/learn/ruby)
 
-#### Feb 2014
+#### February 2014
 * [SpecFlow Tips and Tricks - by Jason Roberts](https://app.pluralsight.com/library/courses/specflow-tips-tricks/table-of-contents)
 
-#### Jan 2014
+#### January 2014
 * [Understanding and Eliminating Technical Debt (Pluralsight.com)](https://app.pluralsight.com/library/courses/understanding-eliminating-technical-debt/table-of-contents)
 
 ## 2013
-#### Dec 2013
+#### December 2013
 * [Creating an Automated Testing Framework with Selenium (Pluralsight.com)](https://app.pluralsight.com/library/courses/automated-testing-framework-selenium/table-of-contents)
 
-#### Nov 2013
+#### November 2013
 * [Technical Web Testing 101 (by Alan Richardson, udemy.com)](https://www.udemy.com/technical-web-testing-101/)
 
-#### Oct 2013
+#### October 2013
 * [Web Security and the OWASP Top 10: The Big Picture - by Troy Hunt (pluralsight)](https://app.pluralsight.com/library/courses/web-security-owasp-top10-big-picture/table-of-contents)
 * [Career Management 2.0, by Jason Alba](https://app.pluralsight.com/library/courses/career-management-2dot0/table-of-contents)
 
-#### Sep 2013
+#### September 2013
 * [Hack Yourself First: How to go on the Cyber-Offense - by Troy Hunt](https://app.pluralsight.com/library/courses/hack-yourself-first/table-of-contents)
 
 #### June 2013
@@ -181,7 +181,7 @@ List of courses, achievements, training, and conferencse that I have taken durin
 * [Career and Survival Strategies for Software Developers by Dan Appleman](https://app.pluralsight.com/library/courses/career-survival-strategies-4devs/table-of-contents)
 
 ## 2012
-#### Oct 2012
+#### October 2012
 * [Automated Web Testing with Selenium (pluralsight.com)](https://app.pluralsight.com/library/courses/selenium/table-of-contents)
 
 #### June 2012
@@ -193,7 +193,7 @@ List of courses, achievements, training, and conferencse that I have taken durin
 * [BDD Specifications with example (by Adzic Gojko)]()
 
 ## 2009
-#### April
+#### April 2009
 * [ISTQB Foundation Certificate in Software Testing](http://www.istqb.org/certification-path-root/foundation-level/foundation-level-content.html)
 
 ## 2008
