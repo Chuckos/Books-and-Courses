@@ -21,6 +21,10 @@ The chronological organization below demonstrates the evolution of skills and ad
 #### November 2025
 * [Cyber Security 101 (by TryHackMe)](https://tryhackme.com/r/path/outline/cybersecurity101)
 
+#### October 2025
+* [Intro to Cursor/Playwright (by Ben Fellows)](https://www.linkedin.com/in/BenFellows)
+* [Cursor and Page Object Models (by Ben Fellows)](https://www.linkedin.com/in/BenFellows)
+
 #### May 2025
 * [Pre Security (by TryHackMe)](https://tryhackme.com/path/outline/presecurity)
 
