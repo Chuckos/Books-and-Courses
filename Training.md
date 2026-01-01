@@ -15,6 +15,12 @@ The chronological organization below demonstrates the evolution of skills and ad
 
 ## 2025
 
+#### December 2025
+* [Advent of CyberSecurity 2025 (by TryHackMe)](https://tryhackme.com/adventofcyber25)
+
+#### November 2025
+* [Cyber Security 101 (by TryHackMe)](https://tryhackme.com/r/path/outline/cybersecurity101)
+
 #### May 2025
 * [Pre Security (by TryHackMe)](https://tryhackme.com/path/outline/presecurity)
 
