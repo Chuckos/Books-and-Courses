@@ -13,20 +13,25 @@ The journey reflects a strategic approach to career development, progressing fro
 
 The chronological organization below demonstrates the evolution of skills and adaptation to industry changes, from traditional testing methodologies to cloud-native architectures and modern security practices.
 
+## 2026
+
+#### January 2026
+* [Web Fundamentals (by TryHackMe)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ITTMYGCBMQ.pdf)
+
 ## 2025
 
 #### December 2025
-* [Advent of CyberSecurity 2025 (by TryHackMe)](https://tryhackme.com/adventofcyber25)
+* [Advent of CyberSecurity 2025 (by TryHackMe)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KQPT31KCMY.pdf)
 
 #### November 2025
-* [Cyber Security 101 (by TryHackMe)](https://tryhackme.com/r/path/outline/cybersecurity101)
+* [Cyber Security 101 (by TryHackMe)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SZ0KOJ2OJD.pdf)
 
 #### October 2025
 * [Intro to Cursor/Playwright (by Ben Fellows)](https://www.linkedin.com/in/BenFellows)
 * [Cursor and Page Object Models (by Ben Fellows)](https://www.linkedin.com/in/BenFellows)
 
 #### May 2025
-* [Pre Security (by TryHackMe)](https://tryhackme.com/path/outline/presecurity)
+* [Pre Security (by TryHackMe)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JVDRVHIJI7.pdf)
 
 #### April 2025
 * [CompTIA Security+ Certification (by CompTIA)](https://www.comptia.org/certifications/security)
