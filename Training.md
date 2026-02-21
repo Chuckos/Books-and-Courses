@@ -15,6 +15,9 @@ The chronological organization below demonstrates the evolution of skills and ad
 
 ## 2026
 
+#### February 2026
+* [Vulnerability Management Foundations (by Qualys)](https://www.qualys.com/training/course/vulnerability-management-foundation)
+
 #### January 2026
 * [Web Fundamentals (by TryHackMe)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ITTMYGCBMQ.pdf)
 
