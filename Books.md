@@ -8,6 +8,9 @@ The resources are organized by topic to help you find materials most relevant to
 
 *Latest additions to the collection - demonstrating continuous learning and staying current with industry developments.*
 
+- **More Everything Forever** *(Adam Becker)* - April 2026
+- **Bullshit Jobs: A Theory** *(David Graeber)* - April 2026
+- **AI Value Creators** *(Rob Thomas, Paul Zikopoulos, Kate Soule)* - April 2026
 - **The Art of Communicating** *(Thich Nhat Hanh)* - January 2025
 - **Contract Testing in Action** *(Marie Cruz & Lewis Prescott)* - 2024
 - **BDD in Action, Second Edition** *(John Ferguson Smart & Jan Molak)* - 2024
@@ -16,13 +19,14 @@ The resources are organized by topic to help you find materials most relevant to
 
 - [📊 Software Quality & Testing](#software-quality--testing) (10 books)
 - [🛠️ Engineering & Technical Skills](#engineering--technical-skills) (12 books)
+- [🤖 AI](#-ai) (3 books)
 - [👥 Leadership & Management](#leadership--management) (8 books)
 - [🤝 Communication & Personal Development](#communication--personal-development) (16 books)
 - [🏢 Business & Strategy](#business--strategy) (7 books)
 - [💰 Financial Literacy](#financial-literacy) (6 books)
 - [🎧 Recommended Podcasts](#recommended-podcasts) (3 podcasts)
 
-**Total: 59 books + 3 podcasts**
+**Total: 62 books + 3 podcasts**
 
 ---
 
@@ -57,6 +61,15 @@ The resources are organized by topic to help you find materials most relevant to
 * [Becoming a Technical Leader (Gerald M. Weinberg)](https://leanpub.com/becomingatechnicalleader)
 * [The Manager's Path (Camille Fournier)](https://www.amazon.co.uk/Managers-Path-Leaders-Navigating-Growth/dp/B07SYBRMYS)
 * [The Secrets of Consulting (Gerald Weinberg)](https://www.amazon.co.uk/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
+
+[↑ Back to Top](#📋-table-of-contents)
+
+## 🤖 AI
+*Perspectives on AI, the future of work, and creating value with generative AI — critical and practical viewpoints on the AI era. (3 books)*
+
+* [More Everything Forever: AI Overlords, Space Empires, and Silicon Valley's Crusade to Control the Fate of Humanity (Adam Becker)](https://www.amazon.co.uk/s?k=More+Everything+Forever+Adam+Becker)
+* [Bullshit Jobs: A Theory (David Graeber)](https://www.amazon.co.uk/s?k=Bullshit+Jobs+David+Graeber)
+* [AI Value Creators: Beyond the Generative AI User Mindset (Rob Thomas, Paul Zikopoulos, Kate Soule)](https://www.amazon.co.uk/s?k=AI+Value+Creators+Rob+Thomas)
 
 [↑ Back to Top](#📋-table-of-contents)
 

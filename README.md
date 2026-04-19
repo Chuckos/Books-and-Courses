@@ -17,7 +17,7 @@ This repository serves as a personal knowledge base documenting the educational 
 ## 📚 What You'll Find
 
 ### [📖 Books Collection](Books.md)
-59 professionally influential books organized by category, each selected for their practical impact on software engineering, leadership, and career development. From technical testing methodologies to leadership philosophy and financial literacy.
+62 professionally influential books organized by category, each selected for their practical impact on software engineering, leadership, and career development. From technical testing methodologies to leadership philosophy and financial literacy.
 
 ### [🎓 Training & Certifications](Training.md) 
 A chronological record (2007-2025) of courses, certifications, and conferences including:
