@@ -15,6 +15,9 @@ The chronological organization below demonstrates the evolution of skills and ad
 
 ## 2026
 
+#### March 2026
+* [ISO/IEC 27001 Lead Auditor (by GRC Mastery)](https://www.grcmastery.com/)
+
 #### February 2026
 * [Vulnerability Management Foundations (by Qualys)](https://www.qualys.com/training/course/vulnerability-management-foundation)
 
