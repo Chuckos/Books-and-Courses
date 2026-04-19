@@ -24,9 +24,9 @@ The resources are organized by topic to help you find materials most relevant to
 - [🤝 Communication & Personal Development](#communication--personal-development) (16 books)
 - [🏢 Business & Strategy](#business--strategy) (7 books)
 - [💰 Financial Literacy](#financial-literacy) (6 books)
-- [🎧 Recommended Podcasts](#recommended-podcasts) (3 podcasts)
+- [🎧 Recommended Podcasts](#recommended-podcasts) (6 podcasts)
 
-**Total: 62 books + 3 podcasts**
+**Total: 62 books + 6 podcasts**
 
 ---
 
@@ -135,11 +135,14 @@ The resources are organized by topic to help you find materials most relevant to
 [↑ Back to Top](#📋-table-of-contents)
 
 ## 🎧 Recommended Podcasts
-*Thought-provoking podcasts covering testing, history, and diverse perspectives to expand your thinking. (3 podcasts)*
+*Thought-provoking podcasts covering testing, history, and diverse perspectives to expand your thinking. (6 podcasts)*
 
 * [AB Testing (Brent Jensen & Alan Page)](https://testingpodcast.com/category/ab-testing/)
 * [Revisionist History (Malcolm Gladwell)](https://www.pushkin.fm/podcasts/revisionist-history)
 * [The Joe Rogan Experience (Joe Rogan)](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk)
+* [Lex Fridman Podcast (Lex Fridman)](https://open.spotify.com/search/Lex%20Fridman%20Podcast)
+* [The Diary of a CEO (Steven Bartlett)](https://open.spotify.com/search/The%20Diary%20of%20a%20CEO)
+* [Darknet Diaries (Jack Rhysider)](https://open.spotify.com/search/Darknet%20Diaries)
 
 [↑ Back to Top](#📋-table-of-contents)
 
