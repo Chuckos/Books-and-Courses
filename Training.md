@@ -15,6 +15,10 @@ The chronological organization below demonstrates the evolution of skills and ad
 
 ## 2026
 
+#### July 2026
+* [SOC Level 1 Learning Path (by TryHackMe)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JQ0ARIQJ3J.pdf)
+* [Security Analyst Level 1 (SAL1) Certification (by TryHackMe)](https://assets.tryhackme.com/certification-certificate/6a648bd8147c555fdc9263d4.pdf)
+
 #### March 2026
 * [ISO/IEC 27001 Lead Auditor (by GRC Mastery)](https://www.grcmastery.com/)
 
